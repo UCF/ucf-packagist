@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/ucf-post-list-shortcode": [
+            {
+                "name": "ucf/ucf-post-list-shortcode",
+                "version": "dev-dependabot/npm_and_yarn/nanoid-3.3.4",
+                "version_normalized": "dev-dependabot/npm_and_yarn/nanoid-3.3.4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Post-List-Shortcode.git",
+                    "reference": "bca1c95d3c4a40ad24e2d36c98bfc791262c7b8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Post-List-Shortcode/zipball/bca1c95d3c4a40ad24e2d36c98bfc791262c7b8c",
+                    "reference": "bca1c95d3c4a40ad24e2d36c98bfc791262c7b8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:02:44+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying lists of posts.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Post-List-Shortcode/tree/dependabot/npm_and_yarn/nanoid-3.3.4",
+                    "issues": "https://github.com/UCF/UCF-Post-List-Shortcode/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-post-list-shortcode",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Post-List-Shortcode.git",
+                    "reference": "44e9c8b0d79441c4880ddd39f6ec98d531d624d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Post-List-Shortcode/zipball/44e9c8b0d79441c4880ddd39f6ec98d531d624d7",
+                    "reference": "44e9c8b0d79441c4880ddd39f6ec98d531d624d7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:03:56+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying lists of posts.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Post-List-Shortcode/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/UCF-Post-List-Shortcode/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-post-list-shortcode",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Post-List-Shortcode.git",
+                    "reference": "982548d7dc78a10d2deeb4d9b884fe59700ebbc2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Post-List-Shortcode/zipball/982548d7dc78a10d2deeb4d9b884fe59700ebbc2",
+                    "reference": "982548d7dc78a10d2deeb4d9b884fe59700ebbc2",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:13:06+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying lists of posts.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Post-List-Shortcode/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/UCF-Post-List-Shortcode/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-post-list-shortcode",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Post-List-Shortcode.git",
+                    "reference": "3a7c3586d1111a24aa093d208d6e21fc43f86332"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Post-List-Shortcode/zipball/3a7c3586d1111a24aa093d208d6e21fc43f86332",
+                    "reference": "3a7c3586d1111a24aa093d208d6e21fc43f86332",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:01:23+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying lists of posts.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Post-List-Shortcode/tree/v2.1.2",
+                    "issues": "https://github.com/UCF/UCF-Post-List-Shortcode/issues"
+                }
+            }
+        ]
+    }
+}

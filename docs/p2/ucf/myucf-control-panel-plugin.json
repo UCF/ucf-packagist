@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/myucf-control-panel-plugin": [
+            {
+                "name": "ucf/myucf-control-panel-plugin",
+                "version": "v1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:UCF/MyUCF-Control-Panel-Plugin.git",
+                    "reference": "4b29fe33e4449f942b8ea12bf4fdeecb3a8dc864"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/MyUCF-Control-Panel-Plugin/zipball/4b29fe33e4449f942b8ea12bf4fdeecb3a8dc864",
+                    "reference": "4b29fe33e4449f942b8ea12bf4fdeecb3a8dc864",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:45:13+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides an interface for controlling content on the myUCF login page.",
+                "support": {
+                    "source": "https://github.com/UCF/MyUCF-Control-Panel-Plugin/tree/v1.0.2",
+                    "issues": "https://github.com/UCF/MyUCF-Control-Panel-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

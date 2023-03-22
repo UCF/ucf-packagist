@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-gmucf-theme": [
+            {
+                "name": "ucf/ucf-gmucf-theme",
+                "version": "v3.4.2",
+                "version_normalized": "3.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-GMUCF-Theme.git",
+                    "reference": "c9561601d2e02ea7b3cec75b80b6865c967e8c94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-GMUCF-Theme/zipball/c9561601d2e02ea7b3cec75b80b6865c967e8c94",
+                    "reference": "c9561601d2e02ea7b3cec75b80b6865c967e8c94",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:09:31+00:00",
+                "type": "wordpress-theme",
+                "description": "This theme is used to generate the email content for the UCF Today and UCF Events emails sent out each week via Postmaster, and can also be used for managing other custom emails (with additional plugins).",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-GMUCF-Theme/tree/v3.4.2",
+                    "issues": "https://github.com/UCF/UCF-GMUCF-Theme/issues"
+                }
+            }
+        ]
+    }
+}

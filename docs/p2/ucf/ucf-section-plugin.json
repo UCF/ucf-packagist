@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-section-plugin": [
+            {
+                "name": "ucf/ucf-section-plugin",
+                "version": "v1.2.3",
+                "version_normalized": "1.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Section-Plugin.git",
+                    "reference": "e2822ce29347e45881be9abdd953f8b9c70a568d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Section-Plugin/zipball/e2822ce29347e45881be9abdd953f8b9c70a568d",
+                    "reference": "e2822ce29347e45881be9abdd953f8b9c70a568d",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:11:51+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, shortcode and functions for displaying Sections.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Section-Plugin/tree/v1.2.3",
+                    "issues": "https://github.com/UCF/UCF-Section-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

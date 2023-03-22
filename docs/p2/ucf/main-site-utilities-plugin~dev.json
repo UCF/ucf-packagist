@@ -1,0 +1,228 @@
+{
+    "packages": {
+        "ucf/main-site-utilities-plugin": [
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "70fe891b246b835ce24386d2b453df5ee4f6612b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/70fe891b246b835ce24386d2b453df5ee4f6612b",
+                    "reference": "70fe891b246b835ce24386d2b453df5ee4f6612b",
+                    "shasum": ""
+                },
+                "time": "2022-08-09T15:24:30+00:00",
+                "type": "wp-cli-package",
+                "autoload": {
+                    "files": [
+                        "commands.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "email": "webcom@ucf.edu",
+                        "homepage": "https://github.com/UCF/"
+                    }
+                ],
+                "description": "Commands specific to the UCFs Main-Site-Theme",
+                "homepage": "https://github.com/UCF/Main-Site-Utilities/",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/develop",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-job-filters",
+                "version_normalized": "dev-job-filters",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "d0cbfd87fd6bbf85e574036de3a3181f2093190f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/d0cbfd87fd6bbf85e574036de3a3181f2093190f",
+                    "reference": "d0cbfd87fd6bbf85e574036de3a3181f2093190f",
+                    "shasum": ""
+                },
+                "time": "2022-06-17T02:26:13+00:00",
+                "type": "wp-cli-package",
+                "autoload": {
+                    "files": [
+                        "commands.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "email": "webcom@ucf.edu",
+                        "homepage": "https://github.com/UCF/"
+                    }
+                ],
+                "description": "Commands specific to the UCFs Main-Site-Theme",
+                "homepage": "https://github.com/UCF/Main-Site-Utilities/",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/job-filters",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "b859e90bc44451cfb558f6c3f0e8c8bea3c99604"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/b859e90bc44451cfb558f6c3f0e8c8bea3c99604",
+                    "reference": "b859e90bc44451cfb558f6c3f0e8c8bea3c99604",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:42:39+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides utilities (jobs) to run for the main website.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v3.0.2",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-min-tag-length",
+                "version_normalized": "dev-min-tag-length",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "9166b8272fbde63e7ac39c56919699e0c2d48964"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/9166b8272fbde63e7ac39c56919699e0c2d48964",
+                    "reference": "9166b8272fbde63e7ac39c56919699e0c2d48964",
+                    "shasum": ""
+                },
+                "time": "2021-12-03T15:34:52+00:00",
+                "type": "wp-cli-package",
+                "autoload": {
+                    "files": [
+                        "commands.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "email": "webcom@ucf.edu",
+                        "homepage": "https://github.com/UCF/"
+                    }
+                ],
+                "description": "Commands specific to the UCFs Main-Site-Theme",
+                "homepage": "https://github.com/UCF/Main-Site-Utilities/",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/min-tag-length",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-rc-v3.0.2",
+                "version_normalized": "dev-rc-v3.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "2da022159c2ba9d62a29affdfcaef7c0e1712a94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/2da022159c2ba9d62a29affdfcaef7c0e1712a94",
+                    "reference": "2da022159c2ba9d62a29affdfcaef7c0e1712a94",
+                    "shasum": ""
+                },
+                "time": "2022-08-10T14:00:09+00:00",
+                "type": "wp-cli-package",
+                "autoload": {
+                    "files": [
+                        "commands.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "email": "webcom@ucf.edu",
+                        "homepage": "https://github.com/UCF/"
+                    }
+                ],
+                "description": "Commands specific to the UCFs Main-Site-Theme",
+                "homepage": "https://github.com/UCF/Main-Site-Utilities/",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/rc-v3.0.2",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-taxonomy-meta",
+                "version_normalized": "dev-taxonomy-meta",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "0c6cb07c4cb4b304ab28d0a7cefa9bce776e8098"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/0c6cb07c4cb4b304ab28d0a7cefa9bce776e8098",
+                    "reference": "0c6cb07c4cb4b304ab28d0a7cefa9bce776e8098",
+                    "shasum": ""
+                },
+                "time": "2017-06-05T12:39:32+00:00",
+                "type": "wp-cli-package",
+                "autoload": {
+                    "files": [
+                        "commands.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "email": "webcom@ucf.edu",
+                        "homepage": "https://github.com/UCF/"
+                    }
+                ],
+                "description": "Commands specific to the UCFs Main-Site-Theme",
+                "homepage": "https://github.com/UCF/Main-Site-Utilities/",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/taxonomy-meta",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/query-terms-by-post-type": [
+            {
+                "name": "ucf/query-terms-by-post-type",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Query-Terms-by-Post-Type.git",
+                    "reference": "140eea809e1435aa72634ca719f2ddf74bfdf67c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Query-Terms-by-Post-Type/zipball/140eea809e1435aa72634ca719f2ddf74bfdf67c",
+                    "reference": "140eea809e1435aa72634ca719f2ddf74bfdf67c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:49:48+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Adds options for filtering taxonomy term retrieval by post types with assigned terms.",
+                "support": {
+                    "source": "https://github.com/UCF/Query-Terms-by-Post-Type/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/Query-Terms-by-Post-Type/issues"
+                }
+            }
+        ]
+    }
+}

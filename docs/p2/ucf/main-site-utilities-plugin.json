@@ -1,0 +1,71 @@
+{
+    "packages": {
+        "ucf/main-site-utilities-plugin": [
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "a161ca2758d68a018dc8fe3e562f4ee208af463e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/a161ca2758d68a018dc8fe3e562f4ee208af463e",
+                    "reference": "a161ca2758d68a018dc8fe3e562f4ee208af463e",
+                    "shasum": ""
+                },
+                "time": "2017-06-12T14:25:18+00:00",
+                "type": "wp-cli-package",
+                "autoload": {
+                    "files": [
+                        "commands.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "email": "webcom@ucf.edu",
+                        "homepage": "https://github.com/UCF/"
+                    }
+                ],
+                "description": "Commands specific to the UCFs Main-Site-Theme",
+                "homepage": "https://github.com/UCF/Main-Site-Utilities/",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v1.0.0",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "v3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "b859e90bc44451cfb558f6c3f0e8c8bea3c99604"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/b859e90bc44451cfb558f6c3f0e8c8bea3c99604",
+                    "reference": "b859e90bc44451cfb558f6c3f0e8c8bea3c99604",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:42:39+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides utilities (jobs) to run for the main website.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v3.0.2",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

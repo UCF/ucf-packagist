@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/wp-apple-touch-icons": [
+            {
+                "name": "ucf/wp-apple-touch-icons",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/WP-Apple-Touch-Icons.git",
+                    "reference": "11d659ba73f0e9050206dabdfeed6f0a9ef1a366"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/WP-Apple-Touch-Icons/zipball/11d659ba73f0e9050206dabdfeed6f0a9ef1a366",
+                    "reference": "11d659ba73f0e9050206dabdfeed6f0a9ef1a366",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:30:33+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides the ability to add a site-wide Apple Touch Icon. This icon will be used as the thumbnail image when a page is bookmarked on an Apple device. Individual page icon can also be set.",
+                "support": {
+                    "source": "https://github.com/UCF/WP-Apple-Touch-Icons/tree/v1.0.4",
+                    "issues": "https://github.com/UCF/WP-Apple-Touch-Icons/issues"
+                }
+            }
+        ]
+    }
+}

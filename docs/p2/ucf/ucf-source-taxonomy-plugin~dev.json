@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/ucf-source-taxonomy-plugin": [
+            {
+                "name": "ucf/ucf-source-taxonomy-plugin",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.1.2",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.1.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin.git",
+                    "reference": "8872f8941e381d4b7735de64b45ba4b93398af9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Source-Taxonomy-Plugin/zipball/8872f8941e381d4b7735de64b45ba4b93398af9c",
+                    "reference": "8872f8941e381d4b7735de64b45ba4b93398af9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:16:16+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress taxonomy for describing sources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/tree/dependabot/npm_and_yarn/minimatch-3.1.2",
+                    "issues": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-source-taxonomy-plugin",
+                "version": "dev-dependabot/npm_and_yarn/minimist-1.2.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimist-1.2.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin.git",
+                    "reference": "3f485b221bf8ba81afacb36d716261ae3fa1658f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Source-Taxonomy-Plugin/zipball/3f485b221bf8ba81afacb36d716261ae3fa1658f",
+                    "reference": "3f485b221bf8ba81afacb36d716261ae3fa1658f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:16:28+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress taxonomy for describing sources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/tree/dependabot/npm_and_yarn/minimist-1.2.8",
+                    "issues": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-source-taxonomy-plugin",
+                "version": "dev-dependabot/npm_and_yarn/yargs-parser-and-yargs-5.0.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/yargs-parser-and-yargs-5.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin.git",
+                    "reference": "dd6d2babe2cc9572bf9c05e3079d4857ecc078e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Source-Taxonomy-Plugin/zipball/dd6d2babe2cc9572bf9c05e3079d4857ecc078e2",
+                    "reference": "dd6d2babe2cc9572bf9c05e3079d4857ecc078e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:16:34+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress taxonomy for describing sources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/tree/dependabot/npm_and_yarn/yargs-parser-and-yargs-5.0.1",
+                    "issues": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-source-taxonomy-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin.git",
+                    "reference": "dc609bb52134f5e7e68e7daa1b1372a36a82f9f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Source-Taxonomy-Plugin/zipball/dc609bb52134f5e7e68e7daa1b1372a36a82f9f1",
+                    "reference": "dc609bb52134f5e7e68e7daa1b1372a36a82f9f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:15:47+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "WordPress taxonomy for describing sources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

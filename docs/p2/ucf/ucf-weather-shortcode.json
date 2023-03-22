@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-weather-shortcode": [
+            {
+                "name": "ucf/ucf-weather-shortcode",
+                "version": "v1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Weather-Shortcode.git",
+                    "reference": "11e37d7b504ace2cd591a19529251dfaad8875e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Weather-Shortcode/zipball/11e37d7b504ace2cd591a19529251dfaad8875e6",
+                    "reference": "11e37d7b504ace2cd591a19529251dfaad8875e6",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:25:56+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying weather from the UCF weather service.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Weather-Shortcode/tree/v1.1.2",
+                    "issues": "https://github.com/UCF/UCF-Weather-Shortcode/issues"
+                }
+            }
+        ]
+    }
+}

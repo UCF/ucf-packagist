@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-pegasus-list-shortcode": [
+            {
+                "name": "ucf/ucf-pegasus-list-shortcode",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Pegasus-List-Shortcode.git",
+                    "reference": "a7f6e206955a9f0122272a797a1803875803cbae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Pegasus-List-Shortcode/zipball/a7f6e206955a9f0122272a797a1803875803cbae",
+                    "reference": "a7f6e206955a9f0122272a797a1803875803cbae",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:57:21+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying the latest issues of Pegasus, UCF's official alumni magazine.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Pegasus-List-Shortcode/tree/v1.1.2",
+                    "issues": "https://github.com/UCF/UCF-Pegasus-List-Shortcode/issues"
+                }
+            }
+        ]
+    }
+}

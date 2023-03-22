@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/ucf-news-plugin": [
+            {
+                "name": "ucf/ucf-news-plugin",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.1.2",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.1.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-News-Plugin.git",
+                    "reference": "5f62f16e0e2463090ed40a346d84640f5ee96bdf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-News-Plugin/zipball/5f62f16e0e2463090ed40a346d84640f5ee96bdf",
+                    "reference": "5f62f16e0e2463090ed40a346d84640f5ee96bdf",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:51:48+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, widget, and functions for displaying UCF news.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-News-Plugin/tree/dependabot/npm_and_yarn/minimatch-3.1.2",
+                    "issues": "https://github.com/UCF/UCF-News-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-news-plugin",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-News-Plugin.git",
+                    "reference": "1b59fdc002a0f737f8d21dd0e9514898dba85373"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-News-Plugin/zipball/1b59fdc002a0f737f8d21dd0e9514898dba85373",
+                    "reference": "1b59fdc002a0f737f8d21dd0e9514898dba85373",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:52:02+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, widget, and functions for displaying UCF news.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-News-Plugin/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/UCF-News-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-news-plugin",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-News-Plugin.git",
+                    "reference": "dc5b8998413b0c5be67961b66fb065c723118c86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-News-Plugin/zipball/dc5b8998413b0c5be67961b66fb065c723118c86",
+                    "reference": "dc5b8998413b0c5be67961b66fb065c723118c86",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:52:02+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, widget, and functions for displaying UCF news.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-News-Plugin/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/UCF-News-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-news-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-News-Plugin.git",
+                    "reference": "5c5ad84fd4dedfcfc7d86552231ff286e95ebce9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-News-Plugin/zipball/5c5ad84fd4dedfcfc7d86552231ff286e95ebce9",
+                    "reference": "5c5ad84fd4dedfcfc7d86552231ff286e95ebce9",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:51:14+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, widget, and functions for displaying UCF news.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-News-Plugin/tree/v3.0.2",
+                    "issues": "https://github.com/UCF/UCF-News-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

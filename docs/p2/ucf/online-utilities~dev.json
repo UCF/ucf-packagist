@@ -1,0 +1,189 @@
+{
+    "packages": {
+        "ucf/online-utilities": [
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-dependabot/npm_and_yarn/axios-and-browser-sync-0.21.4",
+                "version_normalized": "dev-dependabot/npm_and_yarn/axios-and-browser-sync-0.21.4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "58c7f8a5905486bd8bc392feba3daabf9e713f5e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/58c7f8a5905486bd8bc392feba3daabf9e713f5e",
+                    "reference": "58c7f8a5905486bd8bc392feba3daabf9e713f5e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:49:04+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/dependabot/npm_and_yarn/axios-and-browser-sync-0.21.4",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-dependabot/npm_and_yarn/chownr-1.1.4",
+                "version_normalized": "dev-dependabot/npm_and_yarn/chownr-1.1.4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "d8829e976b2d908e423b7c1dc8d9158c2fd14c56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/d8829e976b2d908e423b7c1dc8d9158c2fd14c56",
+                    "reference": "d8829e976b2d908e423b7c1dc8d9158c2fd14c56",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:48:18+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/dependabot/npm_and_yarn/chownr-1.1.4",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-dependabot/npm_and_yarn/json-schema-and-jsprim-0.4.0",
+                "version_normalized": "dev-dependabot/npm_and_yarn/json-schema-and-jsprim-0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "9b277c202c3f94c202fa6f967023c87a7a1b8e19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/9b277c202c3f94c202fa6f967023c87a7a1b8e19",
+                    "reference": "9b277c202c3f94c202fa6f967023c87a7a1b8e19",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:48:48+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/dependabot/npm_and_yarn/json-schema-and-jsprim-0.4.0",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-dependabot/npm_and_yarn/postcss-7.0.39",
+                "version_normalized": "dev-dependabot/npm_and_yarn/postcss-7.0.39",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "a4fcd341e5964a279ff4b76f0113a0cd399b8e4c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/a4fcd341e5964a279ff4b76f0113a0cd399b8e4c",
+                    "reference": "a4fcd341e5964a279ff4b76f0113a0cd399b8e4c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:48:23+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/dependabot/npm_and_yarn/postcss-7.0.39",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "ac0a77b67b697b5d975ece7cbe69e3050e5f604f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/ac0a77b67b697b5d975ece7cbe69e3050e5f604f",
+                    "reference": "ac0a77b67b697b5d975ece7cbe69e3050e5f604f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:49:13+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-dependabot/npm_and_yarn/set-value-and-union-value-2.0.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/set-value-and-union-value-2.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "0e0ebfbcfcaba78e7c3ad7212a499a45bc65101e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/0e0ebfbcfcaba78e7c3ad7212a499a45bc65101e",
+                    "reference": "0e0ebfbcfcaba78e7c3ad7212a499a45bc65101e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:48:47+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/dependabot/npm_and_yarn/set-value-and-union-value-2.0.1",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "1fda45a53500fbd27728f77be912faa9961e65a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/1fda45a53500fbd27728f77be912faa9961e65a3",
+                    "reference": "1fda45a53500fbd27728f77be912faa9961e65a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:47:33+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/v2.2.1",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
+            }
+        ]
+    }
+}

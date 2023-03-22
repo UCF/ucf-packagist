@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/link-rel-patch": [
+            {
+                "name": "ucf/link-rel-patch",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Link-Rel-Patch.git",
+                    "reference": "4d621c0bfd5cbf9152e3da7323c99de3dd931fe7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Link-Rel-Patch/zipball/4d621c0bfd5cbf9152e3da7323c99de3dd931fe7",
+                    "reference": "4d621c0bfd5cbf9152e3da7323c99de3dd931fe7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:40:05+00:00",
+                "type": "wordpress-plugin",
+                "description": "Removes the noreferrer rel value that is added to links set to open in a new tab on post update or publish.",
+                "support": {
+                    "source": "https://github.com/UCF/Link-Rel-Patch/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/Link-Rel-Patch/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-degree-cpt-plugin": [
+            {
+                "name": "ucf/ucf-degree-cpt-plugin",
+                "version": "v3.3.3",
+                "version_normalized": "3.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Degree-CPT-Plugin.git",
+                    "reference": "f38a08ff4ec359de4f806562e8d69fa4dc47ae29"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Degree-CPT-Plugin/zipball/f38a08ff4ec359de4f806562e8d69fa4dc47ae29",
+                    "reference": "f38a08ff4ec359de4f806562e8d69fa4dc47ae29",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:04:05+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, taxonomies and other utilities for describing UCF degree programs.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Degree-CPT-Plugin/tree/v3.3.3",
+                    "issues": "https://github.com/UCF/UCF-Degree-CPT-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

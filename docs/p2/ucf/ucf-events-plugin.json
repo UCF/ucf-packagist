@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-events-plugin": [
+            {
+                "name": "ucf/ucf-events-plugin",
+                "version": "v2.1.6",
+                "version_normalized": "2.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Events-Plugin.git",
+                    "reference": "157b406b60914d00230ec067ff9104a95ffc59d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Events-Plugin/zipball/157b406b60914d00230ec067ff9104a95ffc59d4",
+                    "reference": "157b406b60914d00230ec067ff9104a95ffc59d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:36:33+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, widget, functions, and default styles for displaying UCF events.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Events-Plugin/tree/v2.1.6",
+                    "issues": "https://github.com/UCF/UCF-Events-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

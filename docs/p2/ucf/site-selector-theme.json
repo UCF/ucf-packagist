@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/site-selector-theme": [
+            {
+                "name": "ucf/site-selector-theme",
+                "version": "v1.0.16",
+                "version_normalized": "1.0.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Site-Selector-Theme.git",
+                    "reference": "0d90b5bec74da9439821aabe25e9f7314f81c6b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Site-Selector-Theme/zipball/0d90b5bec74da9439821aabe25e9f7314f81c6b1",
+                    "reference": "0d90b5bec74da9439821aabe25e9f7314f81c6b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:03:39+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme built off of UCF's Generic theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Site-Selector-Theme/tree/v1.0.16",
+                    "issues": "https://github.com/UCF/Site-Selector-Theme/issues"
+                }
+            }
+        ]
+    }
+}

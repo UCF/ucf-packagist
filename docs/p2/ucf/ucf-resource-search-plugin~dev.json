@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/ucf-resource-search-plugin": [
+            {
+                "name": "ucf/ucf-resource-search-plugin",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Resource-Search-Plugin.git",
+                    "reference": "6566d49a3c04ca008685e04a46798f2e1cba67b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Resource-Search-Plugin/zipball/6566d49a3c04ca008685e04a46798f2e1cba67b3",
+                    "reference": "6566d49a3c04ca008685e04a46798f2e1cba67b3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:07:28+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, shortcode, functions, and default styles for displaying a resource search input and list of resources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Resource-Search-Plugin/tree/dependabot/npm_and_yarn/minimatch-3.0.8",
+                    "issues": "https://github.com/UCF/UCF-Resource-Search-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-resource-search-plugin",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Resource-Search-Plugin.git",
+                    "reference": "9c9e3863736aea8cef511fe5309449f61414329f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Resource-Search-Plugin/zipball/9c9e3863736aea8cef511fe5309449f61414329f",
+                    "reference": "9c9e3863736aea8cef511fe5309449f61414329f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:08:29+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, shortcode, functions, and default styles for displaying a resource search input and list of resources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Resource-Search-Plugin/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/UCF-Resource-Search-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-resource-search-plugin",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Resource-Search-Plugin.git",
+                    "reference": "09152018f94bb7d1c9821137d518f5064935c620"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Resource-Search-Plugin/zipball/09152018f94bb7d1c9821137d518f5064935c620",
+                    "reference": "09152018f94bb7d1c9821137d518f5064935c620",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:07:47+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, shortcode, functions, and default styles for displaying a resource search input and list of resources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Resource-Search-Plugin/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/UCF-Resource-Search-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-resource-search-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Resource-Search-Plugin.git",
+                    "reference": "11aed86b51ed1ab4c291c69bb462371c8237d125"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Resource-Search-Plugin/zipball/11aed86b51ed1ab4c291c69bb462371c8237d125",
+                    "reference": "11aed86b51ed1ab4c291c69bb462371c8237d125",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:04:46+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, shortcode, functions, and default styles for displaying a resource search input and list of resources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Resource-Search-Plugin/tree/v1.0.9",
+                    "issues": "https://github.com/UCF/UCF-Resource-Search-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

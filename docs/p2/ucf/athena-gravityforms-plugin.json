@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "ucf/athena-gravityforms-plugin": [
+            {
+                "name": "ucf/athena-gravityforms-plugin",
+                "version": "v2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Athena-GravityForms-Plugin.git",
+                    "reference": "2521aeb22568f691212e1fa35c6081db37eb9e6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Athena-GravityForms-Plugin/zipball/2521aeb22568f691212e1fa35c6081db37eb9e6a",
+                    "reference": "2521aeb22568f691212e1fa35c6081db37eb9e6a",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:26:02+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress plugin that provides Athena Framework styling for Gravity Forms.",
+                "support": {
+                    "source": "https://github.com/UCF/Athena-GravityForms-Plugin/tree/v2.0.1",
+                    "issues": "https://github.com/UCF/Athena-GravityForms-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/athena-gravityforms-plugin",
+                "version": "v2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Athena-GravityForms-Plugin.git",
+                    "reference": "2e1b1cf3268c562a55fc8d62b131fe0dd6e545f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Athena-GravityForms-Plugin/zipball/2e1b1cf3268c562a55fc8d62b131fe0dd6e545f6",
+                    "reference": "2e1b1cf3268c562a55fc8d62b131fe0dd6e545f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:32:50+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress plugin that provides Athena Framework styling for Gravity Forms.",
+                "support": {
+                    "source": "https://github.com/UCF/Athena-GravityForms-Plugin/tree/v2.0.2",
+                    "issues": "https://github.com/UCF/Athena-GravityForms-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

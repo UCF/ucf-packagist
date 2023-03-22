@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/coronavirus-child-theme": [
+            {
+                "name": "ucf/coronavirus-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Coronavirus-Child-Theme.git",
+                    "reference": "ec0345b9b34995f09c4d7ce71fed00acf2c3a802"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Coronavirus-Child-Theme/zipball/ec0345b9b34995f09c4d7ce71fed00acf2c3a802",
+                    "reference": "ec0345b9b34995f09c4d7ce71fed00acf2c3a802",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T19:09:46+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress child theme for UCF's coronavirus information website.",
+                "support": {
+                    "source": "https://github.com/UCF/Coronavirus-Child-Theme/tree/dependabot/npm_and_yarn/minimatch-3.0.8",
+                    "issues": "https://github.com/UCF/Coronavirus-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/coronavirus-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Coronavirus-Child-Theme.git",
+                    "reference": "8b1fd1a2c6662daacdfa0da93745f8b57ac19801"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Coronavirus-Child-Theme/zipball/8b1fd1a2c6662daacdfa0da93745f8b57ac19801",
+                    "reference": "8b1fd1a2c6662daacdfa0da93745f8b57ac19801",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T19:09:59+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress child theme for UCF's coronavirus information website.",
+                "support": {
+                    "source": "https://github.com/UCF/Coronavirus-Child-Theme/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/Coronavirus-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/coronavirus-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Coronavirus-Child-Theme.git",
+                    "reference": "10d2d56f85e5cbc98ee86f5bdc0319114a74b266"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Coronavirus-Child-Theme/zipball/10d2d56f85e5cbc98ee86f5bdc0319114a74b266",
+                    "reference": "10d2d56f85e5cbc98ee86f5bdc0319114a74b266",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T19:09:57+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress child theme for UCF's coronavirus information website.",
+                "support": {
+                    "source": "https://github.com/UCF/Coronavirus-Child-Theme/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/Coronavirus-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/coronavirus-child-theme",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Coronavirus-Child-Theme.git",
+                    "reference": "3682f170e8a7d15894846cab8e85c285dd090a8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Coronavirus-Child-Theme/zipball/3682f170e8a7d15894846cab8e85c285dd090a8f",
+                    "reference": "3682f170e8a7d15894846cab8e85c285dd090a8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T19:09:10+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "WordPress child theme for UCF's coronavirus information website.",
+                "support": {
+                    "source": "https://github.com/UCF/Coronavirus-Child-Theme/tree/v1.0.7",
+                    "issues": "https://github.com/UCF/Coronavirus-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-document-plugin": [
+            {
+                "name": "ucf/ucf-document-plugin",
+                "version": "v0.2.5",
+                "version_normalized": "0.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Document-Plugin.git",
+                    "reference": "bc8e26ca6561739126232bf9123f66c20d80533a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Document-Plugin/zipball/bc8e26ca6561739126232bf9123f66c20d80533a",
+                    "reference": "bc8e26ca6561739126232bf9123f66c20d80533a",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:30:25+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type and taxonomies for managing documents.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Document-Plugin/tree/v0.2.5",
+                    "issues": "https://github.com/UCF/UCF-Document-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

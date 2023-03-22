@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-online-entries-exporter": [
+            {
+                "name": "ucf/ucf-online-entries-exporter",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Online-Entries-Exporter.git",
+                    "reference": "18e6b110188e560bc324d929fa4c39bce8e3610e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Online-Entries-Exporter/zipball/18e6b110188e560bc324d929fa4c39bce8e3610e",
+                    "reference": "18e6b110188e560bc324d929fa4c39bce8e3610e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:53:27+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a WP CLI command for exporting gravity form entries to an external MySQL database.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Online-Entries-Exporter/tree/v1.0.3",
+                    "issues": "https://github.com/UCF/UCF-Online-Entries-Exporter/issues"
+                }
+            }
+        ]
+    }
+}

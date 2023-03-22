@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/gmucf-utilities": [
+            {
+                "name": "ucf/gmucf-utilities",
+                "version": "v1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/GMUCF-Utilities.git",
+                    "reference": "c55c66c02f653b9a09527b21f55cb3faf3d4a257"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/GMUCF-Utilities/zipball/c55c66c02f653b9a09527b21f55cb3faf3d4a257",
+                    "reference": "c55c66c02f653b9a09527b21f55cb3faf3d4a257",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:37:03+00:00",
+                "type": "wordpress-plugin",
+                "description": "Feature and utility plugin for the GMUCF WordPress site.",
+                "support": {
+                    "source": "https://github.com/UCF/GMUCF-Utilities/tree/v1.0.4",
+                    "issues": "https://github.com/UCF/GMUCF-Utilities/issues"
+                }
+            }
+        ]
+    }
+}

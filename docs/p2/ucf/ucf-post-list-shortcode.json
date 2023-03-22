@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-post-list-shortcode": [
+            {
+                "name": "ucf/ucf-post-list-shortcode",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Post-List-Shortcode.git",
+                    "reference": "3a7c3586d1111a24aa093d208d6e21fc43f86332"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Post-List-Shortcode/zipball/3a7c3586d1111a24aa093d208d6e21fc43f86332",
+                    "reference": "3a7c3586d1111a24aa093d208d6e21fc43f86332",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:01:23+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode for displaying lists of posts.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Post-List-Shortcode/tree/v2.1.2",
+                    "issues": "https://github.com/UCF/UCF-Post-List-Shortcode/issues"
+                }
+            }
+        ]
+    }
+}

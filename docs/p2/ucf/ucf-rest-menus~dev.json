@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-rest-menus": [
+            {
+                "name": "ucf/ucf-rest-menus",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-rest-menus.git",
+                    "reference": "0d5ba8631b6dadc9ddd1f9fe24ff6a140ed1b005"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-rest-menus/zipball/0d5ba8631b6dadc9ddd1f9fe24ff6a140ed1b005",
+                    "reference": "0d5ba8631b6dadc9ddd1f9fe24ff6a140ed1b005",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:06:51+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "This is a WordPress plugin that creates a read only rest api for menus within WordPress.",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-rest-menus/tree/v1.0.5",
+                    "issues": "https://github.com/UCF/ucf-rest-menus/issues"
+                }
+            }
+        ]
+    }
+}

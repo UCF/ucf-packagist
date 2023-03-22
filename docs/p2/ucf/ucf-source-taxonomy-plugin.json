@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-source-taxonomy-plugin": [
+            {
+                "name": "ucf/ucf-source-taxonomy-plugin",
+                "version": "v1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin.git",
+                    "reference": "dc609bb52134f5e7e68e7daa1b1372a36a82f9f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Source-Taxonomy-Plugin/zipball/dc609bb52134f5e7e68e7daa1b1372a36a82f9f1",
+                    "reference": "dc609bb52134f5e7e68e7daa1b1372a36a82f9f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:15:47+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress taxonomy for describing sources.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-Source-Taxonomy-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

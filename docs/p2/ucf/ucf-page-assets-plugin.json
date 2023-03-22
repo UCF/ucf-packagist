@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-page-assets-plugin": [
+            {
+                "name": "ucf/ucf-page-assets-plugin",
+                "version": "v1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Page-Assets-Plugin.git",
+                    "reference": "c9abdbdc1341eb53092460fd6464851c4b4dd7ec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Page-Assets-Plugin/zipball/c9abdbdc1341eb53092460fd6464851c4b4dd7ec",
+                    "reference": "c9abdbdc1341eb53092460fd6464851c4b4dd7ec",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:55:20+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides the ability to add a custom stylesheet and/or javascript file to individual pages.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Page-Assets-Plugin/tree/v1.0.6",
+                    "issues": "https://github.com/UCF/UCF-Page-Assets-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

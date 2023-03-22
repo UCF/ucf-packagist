@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-departments-tax-plugin": [
+            {
+                "name": "ucf/ucf-departments-tax-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Departments-Tax-Plugin.git",
+                    "reference": "2ac54415d33f0fb4c84bf125c62a45d43c0f44e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Departments-Tax-Plugin/zipball/2ac54415d33f0fb4c84bf125c62a45d43c0f44e4",
+                    "reference": "2ac54415d33f0fb4c84bf125c62a45d43c0f44e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:27:28+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a taxonomy for describing departments",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Departments-Tax-Plugin/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-Departments-Tax-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

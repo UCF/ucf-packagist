@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/today-child-theme": [
+            {
+                "name": "ucf/today-child-theme",
+                "version": "v1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Today-Child-Theme.git",
+                    "reference": "9afec9268a773ca0109cad4634ad76fe8d9c5842"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Today-Child-Theme/zipball/9afec9268a773ca0109cad4634ad76fe8d9c5842",
+                    "reference": "9afec9268a773ca0109cad4634ad76fe8d9c5842",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:07:34+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for UCF Today - News and Stories from the University of Central Florida and Orlando.",
+                "support": {
+                    "source": "https://github.com/UCF/Today-Child-Theme/tree/v1.4.3",
+                    "issues": "https://github.com/UCF/Today-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

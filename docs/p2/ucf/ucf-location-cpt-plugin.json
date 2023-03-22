@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-location-cpt-plugin": [
+            {
+                "name": "ucf/ucf-location-cpt-plugin",
+                "version": "v0.3.4",
+                "version_normalized": "0.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Location-CPT-Plugin.git",
+                    "reference": "e216e1b6ae430545140a6c27f85542b42bfa4112"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Location-CPT-Plugin/zipball/e216e1b6ae430545140a6c27f85542b42bfa4112",
+                    "reference": "e216e1b6ae430545140a6c27f85542b42bfa4112",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:48:50+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type and custom fields for describing locations.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Location-CPT-Plugin/tree/v0.3.4",
+                    "issues": "https://github.com/UCF/UCF-Location-CPT-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

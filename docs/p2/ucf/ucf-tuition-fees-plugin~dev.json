@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-tuition-fees-plugin": [
+            {
+                "name": "ucf/ucf-tuition-fees-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Tuition-Fees-Plugin.git",
+                    "reference": "77ca925b37388b3ed2cf43dc12209f6ef8279d44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Tuition-Fees-Plugin/zipball/77ca925b37388b3ed2cf43dc12209f6ef8279d44",
+                    "reference": "77ca925b37388b3ed2cf43dc12209f6ef8279d44",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:19:16+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides an import script for importing tuition data for degrees, as well as a shortcode for displaying tuition and fees data.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Tuition-Fees-Plugin/tree/v2.1.4",
+                    "issues": "https://github.com/UCF/UCF-Tuition-Fees-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

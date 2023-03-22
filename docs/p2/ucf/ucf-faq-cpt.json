@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-faq-cpt": [
+            {
+                "name": "ucf/ucf-faq-cpt",
+                "version": "v2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-FAQ-CPT.git",
+                    "reference": "74b90857a8755879f1417924e13d3507d45875d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-FAQ-CPT/zipball/74b90857a8755879f1417924e13d3507d45875d9",
+                    "reference": "74b90857a8755879f1417924e13d3507d45875d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:40:06+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type for describing FAQs and creates supporting shortcodes. This plugin supports the UCF Athena Framework",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-FAQ-CPT/tree/v2.0.4",
+                    "issues": "https://github.com/UCF/UCF-FAQ-CPT/issues"
+                }
+            }
+        ]
+    }
+}

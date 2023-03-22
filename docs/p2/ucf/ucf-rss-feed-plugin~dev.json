@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-rss-feed-plugin": [
+            {
+                "name": "ucf/ucf-rss-feed-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-RSS-Feed-Plugin.git",
+                    "reference": "b53e542d039ba2a4a50aeb617bd1e3187da4389e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-RSS-Feed-Plugin/zipball/b53e542d039ba2a4a50aeb617bd1e3187da4389e",
+                    "reference": "b53e542d039ba2a4a50aeb617bd1e3187da4389e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:09:23+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode and default styles for displaying RSS feeds within post content.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-RSS-Feed-Plugin/tree/v1.0.4",
+                    "issues": "https://github.com/UCF/UCF-RSS-Feed-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

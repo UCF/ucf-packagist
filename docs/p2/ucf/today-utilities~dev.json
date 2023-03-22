@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/today-utilities": [
+            {
+                "name": "ucf/today-utilities",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Today-Utilities.git",
+                    "reference": "5449209cccb7c3e2f0fbdc70d9f6dcbcb876daae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Today-Utilities/zipball/5449209cccb7c3e2f0fbdc70d9f6dcbcb876daae",
+                    "reference": "5449209cccb7c3e2f0fbdc70d9f6dcbcb876daae",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T12:53:22+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Feature and utility plugin for the UCF Today website.",
+                "support": {
+                    "source": "https://github.com/UCF/Today-Utilities/tree/v1.3.1",
+                    "issues": "https://github.com/UCF/Today-Utilities/issues"
+                }
+            }
+        ]
+    }
+}

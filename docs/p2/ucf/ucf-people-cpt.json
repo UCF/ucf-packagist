@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-people-cpt": [
+            {
+                "name": "ucf/ucf-people-cpt",
+                "version": "v1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-People-CPT.git",
+                    "reference": "a4ed59d374f0db4a50cb352541b98a7693c7fe5b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-People-CPT/zipball/a4ed59d374f0db4a50cb352541b98a7693c7fe5b",
+                    "reference": "a4ed59d374f0db4a50cb352541b98a7693c7fe5b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:59:26+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type for describing people and a taxonomy for people groups.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-People-CPT/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-People-CPT/issues"
+                }
+            }
+        ]
+    }
+}

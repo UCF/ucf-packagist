@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/wp-allowed-hosts": [
+            {
+                "name": "ucf/wp-allowed-hosts",
+                "version": "v1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/WP-Allowed-Hosts.git",
+                    "reference": "a1bd8a7ee745b515cb847407fa3c1f9d5025185e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/WP-Allowed-Hosts/zipball/a1bd8a7ee745b515cb847407fa3c1f9d5025185e",
+                    "reference": "a1bd8a7ee745b515cb847407fa3c1f9d5025185e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:28:23+00:00",
+                "type": "wordpress-plugin",
+                "description": "This plugin allows local domains to communicate.",
+                "support": {
+                    "source": "https://github.com/UCF/WP-Allowed-Hosts/tree/v1.0.9",
+                    "issues": "https://github.com/UCF/WP-Allowed-Hosts/issues"
+                }
+            }
+        ]
+    }
+}

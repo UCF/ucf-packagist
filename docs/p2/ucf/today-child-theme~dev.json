@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/today-child-theme": [
+            {
+                "name": "ucf/today-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Today-Child-Theme.git",
+                    "reference": "980d026c48cb881cd12d76c8c0328b32215a593b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Today-Child-Theme/zipball/980d026c48cb881cd12d76c8c0328b32215a593b",
+                    "reference": "980d026c48cb881cd12d76c8c0328b32215a593b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:08:16+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for UCF Today - News and Stories from the University of Central Florida and Orlando.",
+                "support": {
+                    "source": "https://github.com/UCF/Today-Child-Theme/tree/dependabot/npm_and_yarn/minimatch-3.0.8",
+                    "issues": "https://github.com/UCF/Today-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/today-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Today-Child-Theme.git",
+                    "reference": "e71010682bcae85d6f223910f3518b6f61704f5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Today-Child-Theme/zipball/e71010682bcae85d6f223910f3518b6f61704f5c",
+                    "reference": "e71010682bcae85d6f223910f3518b6f61704f5c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:08:41+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for UCF Today - News and Stories from the University of Central Florida and Orlando.",
+                "support": {
+                    "source": "https://github.com/UCF/Today-Child-Theme/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/Today-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/today-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Today-Child-Theme.git",
+                    "reference": "44e71175babe13ca75f43a4eedcfaaf59e4e870e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Today-Child-Theme/zipball/44e71175babe13ca75f43a4eedcfaaf59e4e870e",
+                    "reference": "44e71175babe13ca75f43a4eedcfaaf59e4e870e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:08:23+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for UCF Today - News and Stories from the University of Central Florida and Orlando.",
+                "support": {
+                    "source": "https://github.com/UCF/Today-Child-Theme/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/Today-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/today-child-theme",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Today-Child-Theme.git",
+                    "reference": "9afec9268a773ca0109cad4634ad76fe8d9c5842"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Today-Child-Theme/zipball/9afec9268a773ca0109cad4634ad76fe8d9c5842",
+                    "reference": "9afec9268a773ca0109cad4634ad76fe8d9c5842",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:07:34+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "WordPress theme for UCF Today - News and Stories from the University of Central Florida and Orlando.",
+                "support": {
+                    "source": "https://github.com/UCF/Today-Child-Theme/tree/v1.4.3",
+                    "issues": "https://github.com/UCF/Today-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

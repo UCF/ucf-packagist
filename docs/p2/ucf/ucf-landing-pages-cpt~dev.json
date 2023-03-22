@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-landing-pages-cpt": [
+            {
+                "name": "ucf/ucf-landing-pages-cpt",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Landing-Pages-CPT.git",
+                    "reference": "02f559fa466dfa2f1965a203a81a5857d50ad884"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Landing-Pages-CPT/zipball/02f559fa466dfa2f1965a203a81a5857d50ad884",
+                    "reference": "02f559fa466dfa2f1965a203a81a5857d50ad884",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:46:53+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type for landing pages.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Landing-Pages-CPT/tree/v1.0.2",
+                    "issues": "https://github.com/UCF/UCF-Landing-Pages-CPT/issues"
+                }
+            }
+        ]
+    }
+}

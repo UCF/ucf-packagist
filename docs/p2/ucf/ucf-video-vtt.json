@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-video-vtt": [
+            {
+                "name": "ucf/ucf-video-vtt",
+                "version": "v0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Video-VTT.git",
+                    "reference": "2b8058d1f728cbeb2f14e26ea4d4a1ab08b51019"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Video-VTT/zipball/2b8058d1f728cbeb2f14e26ea4d4a1ab08b51019",
+                    "reference": "2b8058d1f728cbeb2f14e26ea4d4a1ab08b51019",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:22:56+00:00",
+                "type": "wordpress-plugin",
+                "description": "Plugin that provides a series of tools for developers to properly enqueue descriptive text tracks for videos (vtt files) for their videos.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Video-VTT/tree/v0.1.1",
+                    "issues": "https://github.com/UCF/UCF-Video-VTT/issues"
+                }
+            }
+        ]
+    }
+}

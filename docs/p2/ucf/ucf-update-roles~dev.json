@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-update-roles": [
+            {
+                "name": "ucf/ucf-update-roles",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Update-Roles.git",
+                    "reference": "873cf846220b7b31e3d793086d762b74b6b81722"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Update-Roles/zipball/873cf846220b7b31e3d793086d762b74b6b81722",
+                    "reference": "873cf846220b7b31e3d793086d762b74b6b81722",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:21:09+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Updates the administrator and editors roles on a multisite to allow the 'unfiltered_html' capability.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Update-Roles/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/UCF-Update-Roles/issues"
+                }
+            }
+        ]
+    }
+}

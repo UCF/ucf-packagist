@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/strategic-plan-child-theme": [
+            {
+                "name": "ucf/strategic-plan-child-theme",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Strategic-Plan-Child-Theme.git",
+                    "reference": "b945db4fdc6985a4503ecdde3e26bcf9b36b3afe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Strategic-Plan-Child-Theme/zipball/b945db4fdc6985a4503ecdde3e26bcf9b36b3afe",
+                    "reference": "b945db4fdc6985a4503ecdde3e26bcf9b36b3afe",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:05:40+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme for UCF's Strategic Plan website.  Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Strategic-Plan-Child-Theme/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/Strategic-Plan-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

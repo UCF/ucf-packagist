@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-news-plugin": [
+            {
+                "name": "ucf/ucf-news-plugin",
+                "version": "v3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-News-Plugin.git",
+                    "reference": "5c5ad84fd4dedfcfc7d86552231ff286e95ebce9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-News-Plugin/zipball/5c5ad84fd4dedfcfc7d86552231ff286e95ebce9",
+                    "reference": "5c5ad84fd4dedfcfc7d86552231ff286e95ebce9",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T13:51:14+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, widget, and functions for displaying UCF news.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-News-Plugin/tree/v3.0.2",
+                    "issues": "https://github.com/UCF/UCF-News-Plugin/issues"
+                }
+            }
+        ]
+    }
+}
