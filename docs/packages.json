@@ -5,7 +5,7 @@
             "sha1": "f4a0850d232e08564919b0b32eb778790eedf542"
         }
     },
-    "metadata-url": "/p2/%package%.json",
+    "metadata-url": "/ucf-packagist/p2/%package%.json",
     "available-packages": [
         "ucf/athena-gravityforms-plugin",
         "ucf/athena-shortcodes-plugin",

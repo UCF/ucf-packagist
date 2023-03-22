@@ -1,6 +1,6 @@
 {
     "name": "ucf/ucf-packagist",
-    "homepage": "https://ucf-packagist.herokuapp.com/",
+    "homepage": "https://ucf.github.io/ucf-packagist/",
     "repositories": [
         {
             "type": "vcs",
