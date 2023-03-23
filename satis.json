@@ -3,284 +3,284 @@
     "homepage": "https://ucf.github.io/ucf-packagist/",
     "repositories": [
         {
+            "name": "ucf/brand-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Brand-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Brand-Theme"
         },
         {
+            "name": "ucf/coronavirus-child-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Coronavirus-Child-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Coronavirus-Child-Theme"
         },
         {
+            "name": "ucf/main-site-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Main-Site-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Main-Site-Theme"
         },
         {
+            "name": "ucf/online-child-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Online-Child-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Online-Child-Theme"
         },
         {
+            "name": "ucf/pegasus-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Pegasus-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Pegasus-Theme"
         },
         {
+            "name": "ucf/site-selector-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Site-Selector-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Site-Selector-Theme"
         },
         {
+            "name": "ucf/strategic-plan-child-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Strategic-Plan-Child-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Strategic-Plan-Child-Theme"
         },
         {
+            "name": "ucf/today-child-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/Today-Child-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/Today-Child-Theme"
         },
         {
+            "name": "ucf/ucf-gmucf-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-GMUCF-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-GMUCF-Theme"
         },
         {
+            "name": "ucf/ucf-wordpress-theme",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-WordPress-Theme",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-WordPress-Theme"
         },
         {
+            "name": "ucf/athena-gravityforms-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/Athena-GravityForms-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/Athena-GravityForms-Plugin"
         },
         {
+            "name": "ucf/athena-shortcodes-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/Athena-Shortcodes-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/Athena-Shortcodes-Plugin"
         },
         {
+            "name": "ucf/coronavirus-utilities",
             "type": "vcs",
-            "url": "git@github.com:UCF/Coronavirus-Utilities",
-            "branch": "master"
+            "url": "git@github.com:UCF/Coronavirus-Utilities"
         },
         {
+            "name": "ucf/gmucf-utilities",
             "type": "vcs",
-            "url": "git@github.com:UCF/GMUCF-Utilities",
-            "branch": "master"
+            "url": "git@github.com:UCF/GMUCF-Utilities"
         },
         {
+            "name": "ucf/link-rel-patch",
             "type": "vcs",
-            "url": "git@github.com:UCF/Link-Rel-Patch",
-            "branch": "master"
+            "url": "git@github.com:UCF/Link-Rel-Patch"
         },
         {
+            "name": "ucf/main-site-utilities-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/Main-Site-Utilities-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/Main-Site-Utilities-Plugin"
         },
         {
+            "name": "ucf/myucf-control-panel-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/MyUCF-Control-Panel-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/MyUCF-Control-Panel-Plugin"
         },
         {
+            "name": "ucf/online-utilities",
             "type": "vcs",
-            "url": "git@github.com:UCF/Online-Utilities",
-            "branch": "master"
+            "url": "git@github.com:UCF/Online-Utilities"
         },
         {
+            "name": "ucf/query-terms-by-post-type",
             "type": "vcs",
-            "url": "git@github.com:UCF/Query-Terms-by-Post-Type",
-            "branch": "master"
+            "url": "git@github.com:UCF/Query-Terms-by-Post-Type"
         },
         {
+            "name": "ucf/section-menus-shortcode",
             "type": "vcs",
-            "url": "git@github.com:UCF/Section-Menus-Shortcode",
-            "branch": "master"
+            "url": "git@github.com:UCF/Section-Menus-Shortcode"
         },
         {
+            "name": "ucf/tag-capability-patch",
             "type": "vcs",
-            "url": "git@github.com:UCF/Tag-Capability-Patch",
-            "branch": "master"
+            "url": "git@github.com:UCF/Tag-Capability-Patch"
         },
         {
+            "name": "ucf/today-utilities",
             "type": "vcs",
-            "url": "git@github.com:UCF/Today-Utilities",
-            "branch": "master"
+            "url": "git@github.com:UCF/Today-Utilities"
         },
         {
+            "name": "ucf/ucf-academic-calendar-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Academic-Calendar-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Academic-Calendar-Plugin"
         },
         {
+            "name": "ucf/ucf-alert-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Alert-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Alert-Plugin"
         },
         {
+            "name": "ucf/ucf-charts-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Charts-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Charts-Plugin"
         },
         {
+            "name": "ucf/ucf-colleges-tax-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Colleges-Tax-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Colleges-Tax-Plugin"
         },
         {
+            "name": "ucf/ucf-degree-cpt-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Degree-CPT-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Degree-CPT-Plugin"
         },
         {
+            "name": "ucf/ucf-degree-search-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Degree-Search-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Degree-Search-Plugin"
         },
         {
+            "name": "ucf/ucf-departments-tax-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Departments-Tax-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Departments-Tax-Plugin"
         },
         {
+            "name": "ucf/ucf-documents-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Document-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Document-Plugin"
         },
         {
+            "name": "ucf/ucf-email-editor-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Email-Editor-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Email-Editor-Plugin"
         },
         {
+            "name": "ucf/ucf-events-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Events-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Events-Plugin"
         },
         {
+            "name": "ucf/ucf-faq-cpt",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-FAQ-CPT",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-FAQ-CPT"
         },
         {
+            "name": "ucf/ucf-footer-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Footer-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Footer-Plugin"
         },
         {
+            "name": "ucf/ucf-landing-pages-cpt",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Landing-Pages-CPT",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Landing-Pages-CPT"
         },
         {
+            "name": "ucf/ucf-location-cpt-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Location-CPT-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Location-CPT-Plugin"
         },
         {
+            "name": "ucf/ucf-news-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-News-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-News-Plugin"
         },
         {
+            "name": "ucf/ucf-online-entries-exporter",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Online-Entries-Exporter",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Online-Entries-Exporter"
         },
         {
+            "name": "ucf/ucf-page-assets-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Page-Assets-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Page-Assets-Plugin"
         },
         {
+            "name": "ucf/ucf-pegasus-list-shortcode",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Pegasus-List-Shortcode",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Pegasus-List-Shortcode"
         },
         {
+            "name": "ucf/ucf-people-cpt",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-People-CPT",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-People-CPT"
         },
         {
+            "name": "ucf/ucf-post-list-shortcode",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Post-List-Shortcode",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Post-List-Shortcode"
         },
         {
+            "name": "ucf/ucf-resource-search-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Resource-Search-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Resource-Search-Plugin"
         },
         {
+            "name": "ucf/ucf-rest-menus",
             "type": "vcs",
-            "url": "git@github.com:UCF/ucf-rest-menus",
-            "branch": "master"
+            "url": "git@github.com:UCF/ucf-rest-menus"
         },
         {
+            "name": "ucf/ucf-rss-feed-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-RSS-Feed-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-RSS-Feed-Plugin"
         },
         {
+            "name": "ucf/ucf-section-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Section-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Section-Plugin"
         },
         {
+            "name": "ucf/ucf-social-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Social-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Social-Plugin"
         },
         {
+            "name": "ucf/ucf-source-taxonomy-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Source-Taxonomy-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Source-Taxonomy-Plugin"
         },
         {
+            "name": "ucf/ucf-spotlights-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Spotlights-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Spotlights-Plugin"
         },
         {
+            "name": "ucf/ucf-tuition-fees-plugin",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Tuition-Fees-Plugin",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Tuition-Fees-Plugin"
         },
         {
+            "name": "ucf/ucf-update-roles",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Update-Roles",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Update-Roles"
         },
         {
+            "name": "ucf/ucf-video-vtt",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Video-VTT",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Video-VTT"
         },
         {
+            "name": "ucf/ucf-weather-shortcode",
             "type": "vcs",
-            "url": "git@github.com:UCF/UCF-Weather-Shortcode",
-            "branch": "master"
+            "url": "git@github.com:UCF/UCF-Weather-Shortcode"
         },
         {
+            "name": "ucf/wp-allowed-hosts",
             "type": "vcs",
-            "url": "git@github.com:UCF/WP-Allowed-Hosts",
-            "branch": "master"
+            "url": "git@github.com:UCF/WP-Allowed-Hosts"
         },
         {
+            "name": "ucf/wp-apple-touch-icons",
             "type": "vcs",
-            "url": "git@github.com:UCF/WP-Apple-Touch-Icons",
-            "branch": "master"
+            "url": "git@github.com:UCF/WP-Apple-Touch-Icons"
         },
         {
+            "name": "ucf/wp-shortcode-interface",
             "type": "vcs",
-            "url": "git@github.com:UCF/WP-Shortcode-Interface",
-            "branch": "master"
+            "url": "git@github.com:UCF/WP-Shortcode-Interface"
         }
     ],
     "require-all": true,
