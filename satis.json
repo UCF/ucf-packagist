@@ -305,7 +305,7 @@
         {
             "type": "vcs",
             "url": "git@github.com:UCF/UCF-Meeting-CPT-Plugin",
-            "name": "ucf/ucf-meeting-cpt"
+            "name": "ucf/ucf-meeting-cpt-plugin"
         }
     ],
     "require-all": true,

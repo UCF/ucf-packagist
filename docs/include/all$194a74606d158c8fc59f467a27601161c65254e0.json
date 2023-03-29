@@ -3236,6 +3236,61 @@
                 }
             }
         },
+        "ucf/ucf-meeting-cpt-plugin": {
+            "v1.0.1": {
+                "name": "ucf/ucf-meeting-cpt-plugin",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Meeting-CPT-Plugin.git",
+                    "reference": "bdae46e37e5cadbf9d7e0f02363b5ca67735e119"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Meeting-CPT-Plugin/zipball/bdae46e37e5cadbf9d7e0f02363b5ca67735e119",
+                    "reference": "bdae46e37e5cadbf9d7e0f02363b5ca67735e119",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:43:35+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type for posting meetings.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Meeting-CPT-Plugin/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/UCF-Meeting-CPT-Plugin/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ucf/ucf-meeting-cpt-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Meeting-CPT-Plugin.git",
+                    "reference": "bdae46e37e5cadbf9d7e0f02363b5ca67735e119"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Meeting-CPT-Plugin/zipball/bdae46e37e5cadbf9d7e0f02363b5ca67735e119",
+                    "reference": "bdae46e37e5cadbf9d7e0f02363b5ca67735e119",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:43:35+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type for posting meetings.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Meeting-CPT-Plugin/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/UCF-Meeting-CPT-Plugin/issues"
+                }
+            }
+        },
         "ucf/ucf-news-plugin": {
             "v3.0.2": {
                 "name": "ucf/ucf-news-plugin",
