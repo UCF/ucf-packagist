@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/ucf-research-publication-plugin": [
+            {
+                "name": "ucf/ucf-research-publication-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Research-Publication-Plugin.git",
+                    "reference": "cb36574473adf231e3c2c9d4cd352da2d5faed75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Research-Publication-Plugin/zipball/cb36574473adf231e3c2c9d4cd352da2d5faed75",
+                    "reference": "cb36574473adf231e3c2c9d4cd352da2d5faed75",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:49:50+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Plugin that provides a custom post type and taxonomies for UCF research publications.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Research-Publication-Plugin/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-Research-Publication-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

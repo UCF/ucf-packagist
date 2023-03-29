@@ -1925,6 +1925,61 @@
                 }
             }
         },
+        "ucf/research-child-theme": {
+            "v1.1.4": {
+                "name": "ucf/research-child-theme",
+                "version": "v1.1.4",
+                "version_normalized": "1.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Research-Child-Theme.git",
+                    "reference": "59fe714f7868dcd8ec19f32bdd1bbd732d21079f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Research-Child-Theme/zipball/59fe714f7868dcd8ec19f32bdd1bbd732d21079f",
+                    "reference": "59fe714f7868dcd8ec19f32bdd1bbd732d21079f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:22:00+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme for the https://www.ucf.edu/research/ site. Provides specific page template for research clusters and research. Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Research-Child-Theme/tree/v1.1.4",
+                    "issues": "https://github.com/UCF/Research-Child-Theme/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ucf/research-child-theme",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Research-Child-Theme.git",
+                    "reference": "59fe714f7868dcd8ec19f32bdd1bbd732d21079f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Research-Child-Theme/zipball/59fe714f7868dcd8ec19f32bdd1bbd732d21079f",
+                    "reference": "59fe714f7868dcd8ec19f32bdd1bbd732d21079f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:22:00+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "Child theme for the https://www.ucf.edu/research/ site. Provides specific page template for research clusters and research. Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Research-Child-Theme/tree/v1.1.4",
+                    "issues": "https://github.com/UCF/Research-Child-Theme/issues"
+                }
+            }
+        },
         "ucf/section-menus-shortcode": {
             "v1.1.4": {
                 "name": "ucf/section-menus-shortcode",
@@ -3774,6 +3829,116 @@
                 "support": {
                     "source": "https://github.com/UCF/UCF-Post-List-Shortcode/tree/v2.1.2",
                     "issues": "https://github.com/UCF/UCF-Post-List-Shortcode/issues"
+                }
+            }
+        },
+        "ucf/ucf-research-project-plugin": {
+            "v1.0.1": {
+                "name": "ucf/ucf-research-project-plugin",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Research-Project-Plugin.git",
+                    "reference": "4a31e3f1054053edaa267b4ca1aa1398816ed4b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Research-Project-Plugin/zipball/4a31e3f1054053edaa267b4ca1aa1398816ed4b7",
+                    "reference": "4a31e3f1054053edaa267b4ca1aa1398816ed4b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:47:53+00:00",
+                "type": "wordpress-plugin",
+                "description": "The UCF Research Project Plugin provides a custom post type and fields to describe areas of research being conducted at UCF.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Research-Project-Plugin/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/UCF-Research-Project-Plugin/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ucf/ucf-research-project-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Research-Project-Plugin.git",
+                    "reference": "4a31e3f1054053edaa267b4ca1aa1398816ed4b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Research-Project-Plugin/zipball/4a31e3f1054053edaa267b4ca1aa1398816ed4b7",
+                    "reference": "4a31e3f1054053edaa267b4ca1aa1398816ed4b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:47:53+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "The UCF Research Project Plugin provides a custom post type and fields to describe areas of research being conducted at UCF.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Research-Project-Plugin/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/UCF-Research-Project-Plugin/issues"
+                }
+            }
+        },
+        "ucf/ucf-research-publication-plugin": {
+            "v1.1.1": {
+                "name": "ucf/ucf-research-publication-plugin",
+                "version": "v1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Research-Publication-Plugin.git",
+                    "reference": "cb36574473adf231e3c2c9d4cd352da2d5faed75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Research-Publication-Plugin/zipball/cb36574473adf231e3c2c9d4cd352da2d5faed75",
+                    "reference": "cb36574473adf231e3c2c9d4cd352da2d5faed75",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:49:50+00:00",
+                "type": "wordpress-plugin",
+                "description": "Plugin that provides a custom post type and taxonomies for UCF research publications.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Research-Publication-Plugin/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-Research-Publication-Plugin/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ucf/ucf-research-publication-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Research-Publication-Plugin.git",
+                    "reference": "cb36574473adf231e3c2c9d4cd352da2d5faed75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Research-Publication-Plugin/zipball/cb36574473adf231e3c2c9d4cd352da2d5faed75",
+                    "reference": "cb36574473adf231e3c2c9d4cd352da2d5faed75",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:49:50+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Plugin that provides a custom post type and taxonomies for UCF research publications.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Research-Publication-Plugin/tree/v1.1.1",
+                    "issues": "https://github.com/UCF/UCF-Research-Publication-Plugin/issues"
                 }
             }
         },

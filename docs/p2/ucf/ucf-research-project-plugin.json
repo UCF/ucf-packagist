@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/ucf-research-project-plugin": [
+            {
+                "name": "ucf/ucf-research-project-plugin",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Research-Project-Plugin.git",
+                    "reference": "4a31e3f1054053edaa267b4ca1aa1398816ed4b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Research-Project-Plugin/zipball/4a31e3f1054053edaa267b4ca1aa1398816ed4b7",
+                    "reference": "4a31e3f1054053edaa267b4ca1aa1398816ed4b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:47:53+00:00",
+                "type": "wordpress-plugin",
+                "description": "The UCF Research Project Plugin provides a custom post type and fields to describe areas of research being conducted at UCF.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Research-Project-Plugin/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/UCF-Research-Project-Plugin/issues"
+                }
+            }
+        ]
+    }
+}

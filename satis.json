@@ -306,6 +306,21 @@
             "type": "vcs",
             "url": "git@github.com:UCF/UCF-Meeting-CPT-Plugin",
             "name": "ucf/ucf-meeting-cpt-plugin"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/Research-Child-Theme",
+            "name": "ucf/research-child-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/UCF-Research-Project-Plugin",
+            "name": "ucf/ucf-research-project-plugin"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/UCF-Research-Publication-Plugin",
+            "name": "ucf/ucf-research-publication-plugin"
         }
     ],
     "require-all": true,
