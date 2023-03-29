@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/bot-child-theme": [
+            {
+                "name": "ucf/bot-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Child-Theme.git",
+                    "reference": "b3569587429848a26642fbbc09ff3fdd0e2f8ab2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/b3569587429848a26642fbbc09ff3fdd0e2f8ab2",
+                    "reference": "b3569587429848a26642fbbc09ff3fdd0e2f8ab2",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:20:57+00:00",
+                "type": "wordpress-theme",
+                "description": "Built as a child theme of the UCF WordPress Theme for the Board of Trustees website, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/dependabot/npm_and_yarn/minimatch-3.0.8",
+                    "issues": "https://github.com/UCF/BOT-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Child-Theme.git",
+                    "reference": "b9739775ec82d6fec467e12b719b4bef2af8e859"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/b9739775ec82d6fec467e12b719b4bef2af8e859",
+                    "reference": "b9739775ec82d6fec467e12b719b4bef2af8e859",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:21:09+00:00",
+                "type": "wordpress-theme",
+                "description": "Built as a child theme of the UCF WordPress Theme for the Board of Trustees website, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/BOT-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Child-Theme.git",
+                    "reference": "c66df6070870920ff03e084828cb0d8a8b507fef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/c66df6070870920ff03e084828cb0d8a8b507fef",
+                    "reference": "c66df6070870920ff03e084828cb0d8a8b507fef",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:21:10+00:00",
+                "type": "wordpress-theme",
+                "description": "Built as a child theme of the UCF WordPress Theme for the Board of Trustees website, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/BOT-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-child-theme",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Child-Theme.git",
+                    "reference": "d60432ff71c3484d1ab7fd84bb133a5cfdd54174"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/d60432ff71c3484d1ab7fd84bb133a5cfdd54174",
+                    "reference": "d60432ff71c3484d1ab7fd84bb133a5cfdd54174",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:20:21+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "Built as a child theme of the UCF WordPress Theme for the Board of Trustees website, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/v1.4.1",
+                    "issues": "https://github.com/UCF/BOT-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

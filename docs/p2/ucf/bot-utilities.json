@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/bot-utilities": [
+            {
+                "name": "ucf/bot-utilities",
+                "version": "v1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Utilities.git",
+                    "reference": "e62ad72c1bc376d8f3e7dc4e7240704e3e3aa405"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Utilities/zipball/e62ad72c1bc376d8f3e7dc4e7240704e3e3aa405",
+                    "reference": "e62ad72c1bc376d8f3e7dc4e7240704e3e3aa405",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:45:37+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides extra functionality and utilities for the BOT website.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Utilities/tree/v1.0.5",
+                    "issues": "https://github.com/UCF/BOT-Utilities/issues"
+                }
+            }
+        ]
+    }
+}

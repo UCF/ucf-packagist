@@ -1,14 +1,16 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e01b5ddb9e1460e97ac435e9ff819eabfb9d6471.json": {
-            "sha1": "e01b5ddb9e1460e97ac435e9ff819eabfb9d6471"
+        "include/all$05d02435ecaa44c90abe4513444e7aea652f7098.json": {
+            "sha1": "05d02435ecaa44c90abe4513444e7aea652f7098"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
     "available-packages": [
         "ucf/athena-gravityforms-plugin",
         "ucf/athena-shortcodes-plugin",
+        "ucf/bot-child-theme",
+        "ucf/bot-utilities",
         "ucf/brand-theme",
         "ucf/coronavirus-child-theme",
         "ucf/coronavirus-utilities",

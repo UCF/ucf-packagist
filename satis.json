@@ -291,6 +291,21 @@
             "type": "vcs",
             "url": "git@github.com:UCF/FinAid-Utilities",
             "name": "ucf/finaid-utilities"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/BOT-Child-Theme",
+            "name": "ucf/bot-child-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/BOT-Utilities",
+            "name": "ucf/bot-utilities"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/UCF-Meeting-CPT-Plugin",
+            "name": "ucf/ucf-meeting-cpt"
         }
     ],
     "require-all": true,

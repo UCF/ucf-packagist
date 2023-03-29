@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/bot-utilities": [
+            {
+                "name": "ucf/bot-utilities",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Utilities.git",
+                    "reference": "65e4aea0e6c3bb0927df96b67747298fb1f01703"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Utilities/zipball/65e4aea0e6c3bb0927df96b67747298fb1f01703",
+                    "reference": "65e4aea0e6c3bb0927df96b67747298fb1f01703",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:46:14+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides extra functionality and utilities for the BOT website.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Utilities/tree/dependabot/npm_and_yarn/minimatch-3.0.8",
+                    "issues": "https://github.com/UCF/BOT-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-utilities",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Utilities.git",
+                    "reference": "99ef6af0abda80422e86d5df1a89ab61f2504c3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Utilities/zipball/99ef6af0abda80422e86d5df1a89ab61f2504c3c",
+                    "reference": "99ef6af0abda80422e86d5df1a89ab61f2504c3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:46:30+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides extra functionality and utilities for the BOT website.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Utilities/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/BOT-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-utilities",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Utilities.git",
+                    "reference": "67bcb5e3c66dac65518e77822d5b2fccab7e992e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Utilities/zipball/67bcb5e3c66dac65518e77822d5b2fccab7e992e",
+                    "reference": "67bcb5e3c66dac65518e77822d5b2fccab7e992e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:46:26+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides extra functionality and utilities for the BOT website.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Utilities/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/BOT-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-utilities",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Utilities.git",
+                    "reference": "e62ad72c1bc376d8f3e7dc4e7240704e3e3aa405"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Utilities/zipball/e62ad72c1bc376d8f3e7dc4e7240704e3e3aa405",
+                    "reference": "e62ad72c1bc376d8f3e7dc4e7240704e3e3aa405",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:45:37+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Provides extra functionality and utilities for the BOT website.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Utilities/tree/v1.0.5",
+                    "issues": "https://github.com/UCF/BOT-Utilities/issues"
+                }
+            }
+        ]
+    }
+}
