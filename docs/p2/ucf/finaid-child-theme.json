@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/finaid-child-theme": [
+            {
+                "name": "ucf/finaid-child-theme",
+                "version": "v1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/FinAid-Child-Theme.git",
+                    "reference": "e3934be616e6ee8fdf25643c3aff41b77bb49c25"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/FinAid-Child-Theme/zipball/e3934be616e6ee8fdf25643c3aff41b77bb49c25",
+                    "reference": "e3934be616e6ee8fdf25643c3aff41b77bb49c25",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:18:18+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for the UCF Office of Student Financial Assistance website.  Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/FinAid-Child-Theme/tree/v1.0.4",
+                    "issues": "https://github.com/UCF/FinAid-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

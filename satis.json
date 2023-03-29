@@ -281,6 +281,16 @@
             "name": "ucf/wp-shortcode-interface",
             "type": "vcs",
             "url": "git@github.com:UCF/WP-Shortcode-Interface"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/FinAid-Child-Theme",
+            "name": "ucf/finaid-child-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/FinAid-Utilities",
+            "name": "ucf/finaid-utilities"
         }
     ],
     "require-all": true,

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f4a0850d232e08564919b0b32eb778790eedf542.json": {
-            "sha1": "f4a0850d232e08564919b0b32eb778790eedf542"
+        "include/all$e01b5ddb9e1460e97ac435e9ff819eabfb9d6471.json": {
+            "sha1": "e01b5ddb9e1460e97ac435e9ff819eabfb9d6471"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -12,6 +12,8 @@
         "ucf/brand-theme",
         "ucf/coronavirus-child-theme",
         "ucf/coronavirus-utilities",
+        "ucf/finaid-child-theme",
+        "ucf/finaid-utilities",
         "ucf/gmucf-utilities",
         "ucf/link-rel-patch",
         "ucf/main-site-theme",

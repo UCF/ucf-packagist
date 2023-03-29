@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/finaid-utilities": [
+            {
+                "name": "ucf/finaid-utilities",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/FinAid-Utilities.git",
+                    "reference": "84d54cd6d4b49261541a912eb10a2f83685a6a9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/FinAid-Utilities/zipball/84d54cd6d4b49261541a912eb10a2f83685a6a9c",
+                    "reference": "84d54cd6d4b49261541a912eb10a2f83685a6a9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-22T14:40:35+00:00",
+                "type": "wordpress-plugin",
+                "description": "Custom utilities and functionality for the Financial Aid WordPress site.",
+                "support": {
+                    "source": "https://github.com/UCF/FinAid-Utilities/tree/v1.0.1",
+                    "issues": "https://github.com/UCF/FinAid-Utilities/issues"
+                }
+            }
+        ]
+    }
+}
