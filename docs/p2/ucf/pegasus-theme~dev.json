@@ -29,32 +29,6 @@
             },
             {
                 "name": "ucf/pegasus-theme",
-                "version": "dev-hf-is-login",
-                "version_normalized": "dev-hf-is-login",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/UCF/Pegasus-Theme.git",
-                    "reference": "6059f48d4b9c2355593e12d4dbd2fefe2d1ad658"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Pegasus-Theme/zipball/6059f48d4b9c2355593e12d4dbd2fefe2d1ad658",
-                    "reference": "6059f48d4b9c2355593e12d4dbd2fefe2d1ad658",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer/installers": "~1.0"
-                },
-                "time": "2023-04-05T13:21:02+00:00",
-                "type": "wordpress-theme",
-                "description": "Wordpress theme for Pegasus Magazine.  Built off of UCF's Generic Theme.",
-                "support": {
-                    "source": "https://github.com/UCF/Pegasus-Theme/tree/hf-is-login",
-                    "issues": "https://github.com/UCF/Pegasus-Theme/issues"
-                }
-            },
-            {
-                "name": "ucf/pegasus-theme",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
