@@ -134,6 +134,58 @@
                     "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
                 }
             },
+            "v0.7.8": {
+                "name": "ucf/athena-shortcodes-plugin",
+                "version": "v0.7.8",
+                "version_normalized": "0.7.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Athena-Shortcodes-Plugin.git",
+                    "reference": "0820b555dc8370deaafd75df9e6c4c6bf2d686ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Athena-Shortcodes-Plugin/zipball/0820b555dc8370deaafd75df9e6c4c6bf2d686ed",
+                    "reference": "0820b555dc8370deaafd75df9e6c4c6bf2d686ed",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-04-14T14:36:04+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides shortcodes that support the use of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Athena-Shortcodes-Plugin/tree/v0.7.8",
+                    "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
+                }
+            },
+            "v0.7.9": {
+                "name": "ucf/athena-shortcodes-plugin",
+                "version": "v0.7.9",
+                "version_normalized": "0.7.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Athena-Shortcodes-Plugin.git",
+                    "reference": "fddbbfecd8bf6654eb8c4d2315ae7ccb35361f3e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Athena-Shortcodes-Plugin/zipball/fddbbfecd8bf6654eb8c4d2315ae7ccb35361f3e",
+                    "reference": "fddbbfecd8bf6654eb8c4d2315ae7ccb35361f3e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-04-14T19:21:58+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides shortcodes that support the use of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Athena-Shortcodes-Plugin/tree/v0.7.9",
+                    "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
+                }
+            },
             "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34": {
                 "name": "ucf/athena-shortcodes-plugin",
                 "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
@@ -160,6 +212,58 @@
                     "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
                 }
             },
+            "dev-develop": {
+                "name": "ucf/athena-shortcodes-plugin",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Athena-Shortcodes-Plugin.git",
+                    "reference": "a58d475f0ad203fff82efa6e73444152ff0c9740"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Athena-Shortcodes-Plugin/zipball/a58d475f0ad203fff82efa6e73444152ff0c9740",
+                    "reference": "a58d475f0ad203fff82efa6e73444152ff0c9740",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-04-14T19:22:04+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides shortcodes that support the use of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Athena-Shortcodes-Plugin/tree/develop",
+                    "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
+                }
+            },
+            "dev-hf-the-content": {
+                "name": "ucf/athena-shortcodes-plugin",
+                "version": "dev-hf-the-content",
+                "version_normalized": "dev-hf-the-content",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Athena-Shortcodes-Plugin.git",
+                    "reference": "ab2e3e30f337da6f673f5984c534e65d85ed5101"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Athena-Shortcodes-Plugin/zipball/ab2e3e30f337da6f673f5984c534e65d85ed5101",
+                    "reference": "ab2e3e30f337da6f673f5984c534e65d85ed5101",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-04-14T14:25:35+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides shortcodes that support the use of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Athena-Shortcodes-Plugin/tree/hf-the-content",
+                    "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
+                }
+            },
             "dev-master": {
                 "name": "ucf/athena-shortcodes-plugin",
                 "version": "dev-master",
@@ -167,23 +271,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Athena-Shortcodes-Plugin.git",
-                    "reference": "62aefbf651b5c5dd2acb410a48140695f607f523"
+                    "reference": "fddbbfecd8bf6654eb8c4d2315ae7ccb35361f3e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Athena-Shortcodes-Plugin/zipball/62aefbf651b5c5dd2acb410a48140695f607f523",
-                    "reference": "62aefbf651b5c5dd2acb410a48140695f607f523",
+                    "url": "https://api.github.com/repos/UCF/Athena-Shortcodes-Plugin/zipball/fddbbfecd8bf6654eb8c4d2315ae7ccb35361f3e",
+                    "reference": "fddbbfecd8bf6654eb8c4d2315ae7ccb35361f3e",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-03-21T20:34:44+00:00",
+                "time": "2023-04-14T19:21:58+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Provides shortcodes that support the use of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Athena-Shortcodes-Plugin/tree/v0.7.7",
+                    "source": "https://github.com/UCF/Athena-Shortcodes-Plugin/tree/v0.7.9",
                     "issues": "https://github.com/UCF/Athena-Shortcodes-Plugin/issues"
                 }
             }
