@@ -1,5 +1,32 @@
 {
     "packages": {
-        "ucf/brand-theme": []
+        "ucf/brand-theme": [
+            {
+                "name": "ucf/brand-theme",
+                "version": "v1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Brand-Theme.git",
+                    "reference": "742e9e47e892841a0103cf06197d271e2bbae76c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Brand-Theme/zipball/742e9e47e892841a0103cf06197d271e2bbae76c",
+                    "reference": "742e9e47e892841a0103cf06197d271e2bbae76c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-04-17T13:52:23+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for brand website with brand guidelines and provides an interface for browsing and downloading existing UILs and managing new UIL requests.",
+                "support": {
+                    "source": "https://github.com/UCF/Brand-Theme/tree/v1.2.0",
+                    "issues": "https://github.com/UCF/Brand-Theme/issues"
+                }
+            }
+        ]
     }
 }
