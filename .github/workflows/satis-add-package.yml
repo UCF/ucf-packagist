@@ -1,0 +1,31 @@
+name: Partial Packagist Rebuild
+
+on:
+  workflow_dispatch:
+    inputs:
+      package_url:
+        type: string
+        description: Package URL
+      package_name:
+        type: string
+        description: Package Name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: UCF/satis-add-package@v1-beta
+        with:
+          token: ${{ github.token }} # App/OAuth token, PAT
+          package_url: ${{ inputs.package_url }}
+          package_name: ${{ inputs.package_name }}
+      - env:
+          GIT_EMAIL: mcatech@ucf.edu
+          GIT_NAME: mcatech
+        run: |
+          git config user.name $GIT_NAME
+          git config user.email $GIT_EMAIL
+          git add docs/
+          git commit -m "Added ${{inputs.package_name}} to repository."
+          git push
