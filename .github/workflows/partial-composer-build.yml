@@ -25,5 +25,3 @@ jobs:
           git add docs/
           git commit -m "Re-built repository assets"
           git push
-
-permissions: write-all
