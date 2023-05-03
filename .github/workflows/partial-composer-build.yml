@@ -1,7 +1,11 @@
 name: Partial Packagist Rebuild
 
 on:
-  - workflow_dispatch
+  workflow_dispatch:
+    inputs:
+      name:
+        type: string
+        description: Package name
 
 jobs:
   build:
