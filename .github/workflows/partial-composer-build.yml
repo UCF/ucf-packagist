@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ucf/partial-satis-build@v1
+      - uses: UCF/satis-partial-build@v1
         with:
           token: ${{ github.token }} # App/OAuth token, PAT
       - env:
