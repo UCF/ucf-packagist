@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ucf/partial-satis-build@v1
         with:
-          token: ${{ GITHUB_TOKEN }} # App/OAuth token, PAT
+          token: ${{ github.token }} # App/OAuth token, PAT
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
