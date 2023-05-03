@@ -24,7 +24,7 @@
                 "type": "wordpress-plugin",
                 "description": "This plugin has no functionality and is only used for github action testing.",
                 "support": {
-                    "source": "https://github.com/UCF/github-action-testing/tree/v1.0.0",
+                    "source": "https://github.com/UCF/github-action-testing/tree/v1.0.1",
                     "issues": "https://github.com/UCF/github-action-testing/issues"
                 }
             }
