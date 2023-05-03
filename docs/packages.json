@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$1971ac9a3bc1b24c24f5a12cf60bba665f83a6db.json": {
-            "sha1": "1971ac9a3bc1b24c24f5a12cf60bba665f83a6db"
+        "include/all$2706fa95fa78952cd608b7c830af04cfef48dac7.json": {
+            "sha1": "2706fa95fa78952cd608b7c830af04cfef48dac7"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -16,6 +16,7 @@
         "ucf/coronavirus-utilities",
         "ucf/finaid-child-theme",
         "ucf/finaid-utilities",
+        "ucf/github-action-testing",
         "ucf/gmucf-utilities",
         "ucf/link-rel-patch",
         "ucf/main-site-theme",

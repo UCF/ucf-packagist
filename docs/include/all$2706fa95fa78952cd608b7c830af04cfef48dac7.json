@@ -1015,6 +1015,35 @@
                 }
             }
         },
+        "ucf/github-action-testing": {
+            "dev-main": {
+                "name": "ucf/github-action-testing",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/github-action-testing.git",
+                    "reference": "1b1122b0a6d1706b250a6926ffc66cc5a9d973f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/1b1122b0a6d1706b250a6926ffc66cc5a9d973f9",
+                    "reference": "1b1122b0a6d1706b250a6926ffc66cc5a9d973f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-05-03T15:35:56+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "This plugin has no functionality and is only used for github action testing.",
+                "support": {
+                    "source": "https://github.com/UCF/github-action-testing/tree/main",
+                    "issues": "https://github.com/UCF/github-action-testing/issues"
+                }
+            }
+        },
         "ucf/gmucf-utilities": {
             "v1.0.4": {
                 "name": "ucf/gmucf-utilities",
