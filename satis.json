@@ -321,6 +321,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/UCF-Research-Publication-Plugin",
             "name": "ucf/ucf-research-publication-plugin"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/UCF/github-action-testing/",
+            "name": "ucf/github-action-testing"
         }
     ],
     "require-all": true,

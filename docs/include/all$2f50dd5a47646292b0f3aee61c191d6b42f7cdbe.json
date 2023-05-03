@@ -1016,6 +1016,32 @@
             }
         },
         "ucf/github-action-testing": {
+            "v1.0.0": {
+                "name": "ucf/github-action-testing",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/github-action-testing.git",
+                    "reference": "d10fb45067b34f5eed35542876326d4718562ec9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/d10fb45067b34f5eed35542876326d4718562ec9",
+                    "reference": "d10fb45067b34f5eed35542876326d4718562ec9",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-05-03T17:37:15+00:00",
+                "type": "wordpress-plugin",
+                "description": "This plugin has no functionality and is only used for github action testing.",
+                "support": {
+                    "source": "https://github.com/UCF/github-action-testing/tree/v1.0.0",
+                    "issues": "https://github.com/UCF/github-action-testing/issues"
+                }
+            },
             "dev-main": {
                 "name": "ucf/github-action-testing",
                 "version": "dev-main",
@@ -1023,23 +1049,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/github-action-testing.git",
-                    "reference": "1b1122b0a6d1706b250a6926ffc66cc5a9d973f9"
+                    "reference": "d10fb45067b34f5eed35542876326d4718562ec9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/1b1122b0a6d1706b250a6926ffc66cc5a9d973f9",
-                    "reference": "1b1122b0a6d1706b250a6926ffc66cc5a9d973f9",
+                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/d10fb45067b34f5eed35542876326d4718562ec9",
+                    "reference": "d10fb45067b34f5eed35542876326d4718562ec9",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-05-03T15:35:56+00:00",
+                "time": "2023-05-03T17:37:15+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "This plugin has no functionality and is only used for github action testing.",
                 "support": {
-                    "source": "https://github.com/UCF/github-action-testing/tree/main",
+                    "source": "https://github.com/UCF/github-action-testing/tree/v1.0.0",
                     "issues": "https://github.com/UCF/github-action-testing/issues"
                 }
             }
