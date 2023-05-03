@@ -3,7 +3,7 @@ name: Partial Packagist Rebuild
 on:
   workflow_dispatch:
     inputs:
-      name:
+      package:
         type: string
         description: Package name
 
@@ -15,6 +15,7 @@ jobs:
       - uses: UCF/satis-partial-build@v1-alpha.3
         with:
           token: ${{ github.token }} # App/OAuth token, PAT
+          pacakge: ${{ inputs.package }}
       - env:
           GIT_EMAIL: bot@github.com
           GIT_NAME: cool-bot
