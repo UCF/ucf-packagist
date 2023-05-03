@@ -1,5 +1,4 @@
-name: Partial Packagist Rebuild
-
+name: Add Package
 on:
   workflow_dispatch:
     inputs:
