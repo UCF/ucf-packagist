@@ -1,4 +1,4 @@
-name: Composer repository
+name: Full Packagist Rebuild
 
 on:
   - workflow_dispatch
