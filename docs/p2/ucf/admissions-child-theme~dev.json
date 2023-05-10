@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/admissions-child-theme": [
+            {
+                "name": "ucf/admissions-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "version_normalized": "dev-dependabot/npm_and_yarn/minimatch-3.0.8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Admissions-Child-Theme.git",
+                    "reference": "2f272ebabc900805b1678473c7ed8f4557da4018"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Admissions-Child-Theme/zipball/2f272ebabc900805b1678473c7ed8f4557da4018",
+                    "reference": "2f272ebabc900805b1678473c7ed8f4557da4018",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:14:38+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme of the UCF WordPress Theme for the Undergraduate Admissions website.  Built with the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Admissions-Child-Theme/tree/dependabot/npm_and_yarn/minimatch-3.0.8",
+                    "issues": "https://github.com/UCF/Admissions-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/admissions-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "version_normalized": "dev-dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Admissions-Child-Theme.git",
+                    "reference": "5402db671961942e9c719b0a025b1017c326e9ef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Admissions-Child-Theme/zipball/5402db671961942e9c719b0a025b1017c326e9ef",
+                    "reference": "5402db671961942e9c719b0a025b1017c326e9ef",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:14:10+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme of the UCF WordPress Theme for the Undergraduate Admissions website.  Built with the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Admissions-Child-Theme/tree/dependabot/npm_and_yarn/qs-and-browser-sync-6.11.1",
+                    "issues": "https://github.com/UCF/Admissions-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/admissions-child-theme",
+                "version": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "version_normalized": "dev-dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Admissions-Child-Theme.git",
+                    "reference": "70f88be5250f149968c2efd7928491147fdc384e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Admissions-Child-Theme/zipball/70f88be5250f149968c2efd7928491147fdc384e",
+                    "reference": "70f88be5250f149968c2efd7928491147fdc384e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:14:10+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme of the UCF WordPress Theme for the Undergraduate Admissions website.  Built with the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Admissions-Child-Theme/tree/dependabot/npm_and_yarn/ua-parser-js-and-browser-sync-1.0.34",
+                    "issues": "https://github.com/UCF/Admissions-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/admissions-child-theme",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Admissions-Child-Theme.git",
+                    "reference": "1f9f8a9c4aed4b62f51d2e024fb02f6eeab87587"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Admissions-Child-Theme/zipball/1f9f8a9c4aed4b62f51d2e024fb02f6eeab87587",
+                    "reference": "1f9f8a9c4aed4b62f51d2e024fb02f6eeab87587",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-03-21T20:13:22+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "Child theme of the UCF WordPress Theme for the Undergraduate Admissions website.  Built with the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Admissions-Child-Theme/tree/v1.0.6",
+                    "issues": "https://github.com/UCF/Admissions-Child-Theme/issues"
+                }
+            }
+        ]
+    }
+}

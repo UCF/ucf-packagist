@@ -326,6 +326,11 @@
             "type": "vcs",
             "url": "https://github.com/UCF/github-action-testing/",
             "name": "ucf/github-action-testing"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/UCF/Admissions-Child-Theme/",
+            "name": "ucf/admissions-child-theme"
         }
     ],
     "require-all": true,
