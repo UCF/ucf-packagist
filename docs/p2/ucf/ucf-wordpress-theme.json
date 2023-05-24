@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/UCF-WordPress-Theme/tree/v0.7.7",
                     "issues": "https://github.com/UCF/UCF-WordPress-Theme/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-wordpress-theme",
+                "version": "v0.8.0",
+                "version_normalized": "0.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-WordPress-Theme.git",
+                    "reference": "c671635392453cb5a748eef7aa7d8e2b98258da7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-WordPress-Theme/zipball/c671635392453cb5a748eef7aa7d8e2b98258da7",
+                    "reference": "c671635392453cb5a748eef7aa7d8e2b98258da7",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-05-24T20:15:14+00:00",
+                "type": "wordpress-theme",
+                "description": "A generic, responsive WordPress theme for UCF websites, built off of the Athena Framework. Suitable as a standalone theme or as a parent theme.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-WordPress-Theme/tree/v0.8.0",
+                    "issues": "https://github.com/UCF/UCF-WordPress-Theme/issues"
+                }
             }
         ]
     }
