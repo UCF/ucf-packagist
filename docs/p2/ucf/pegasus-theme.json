@@ -52,6 +52,32 @@
                     "source": "https://github.com/UCF/Pegasus-Theme/tree/v6.2.8",
                     "issues": "https://github.com/UCF/Pegasus-Theme/issues"
                 }
+            },
+            {
+                "name": "ucf/pegasus-theme",
+                "version": "v6.3.0",
+                "version_normalized": "6.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Pegasus-Theme.git",
+                    "reference": "f823e72fc6b58f1e54c6fb56c1d4e86c72cce939"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Pegasus-Theme/zipball/f823e72fc6b58f1e54c6fb56c1d4e86c72cce939",
+                    "reference": "f823e72fc6b58f1e54c6fb56c1d4e86c72cce939",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-05-26T15:31:42+00:00",
+                "type": "wordpress-theme",
+                "description": "Wordpress theme for Pegasus Magazine.  Built off of UCF's Generic Theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Pegasus-Theme/tree/v6.3.0",
+                    "issues": "https://github.com/UCF/Pegasus-Theme/issues"
+                }
             }
         ]
     }
