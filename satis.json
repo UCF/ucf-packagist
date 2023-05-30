@@ -331,6 +331,11 @@
             "type": "vcs",
             "url": "https://github.com/UCF/Admissions-Child-Theme/",
             "name": "ucf/admissions-child-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/UCF/Colleges-Theme/",
+            "name": "ucf/colleges-theme"
         }
     ],
     "require-all": true,
