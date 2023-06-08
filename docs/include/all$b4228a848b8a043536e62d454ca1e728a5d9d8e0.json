@@ -3679,7 +3679,7 @@
                 "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:UCF/UCF-Email-Editor-Plugin.git",
+                    "url": "https://github.com/UCF/UCF-Email-Editor-Plugin.git",
                     "reference": "c05408de8df37df782e840ff1d7b21d09fae634f"
                 },
                 "dist": {
@@ -3699,30 +3699,56 @@
                     "issues": "https://github.com/UCF/UCF-Email-Editor-Plugin/issues"
                 }
             },
+            "v1.3.2": {
+                "name": "ucf/ucf-email-editor-plugin",
+                "version": "v1.3.2",
+                "version_normalized": "1.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Email-Editor-Plugin.git",
+                    "reference": "a9f69416f4c5b66aad94be3cf5bf18ab89ec1faa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Email-Editor-Plugin/zipball/a9f69416f4c5b66aad94be3cf5bf18ab89ec1faa",
+                    "reference": "a9f69416f4c5b66aad94be3cf5bf18ab89ec1faa",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-06-08T15:45:40+00:00",
+                "type": "wordpress-plugin",
+                "description": "WordPress Plugin to add an email editor for creating email html content.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Email-Editor-Plugin/tree/v1.3.2",
+                    "issues": "https://github.com/UCF/UCF-Email-Editor-Plugin/issues"
+                }
+            },
             "dev-master": {
                 "name": "ucf/ucf-email-editor-plugin",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:UCF/UCF-Email-Editor-Plugin.git",
-                    "reference": "c05408de8df37df782e840ff1d7b21d09fae634f"
+                    "url": "https://github.com/UCF/UCF-Email-Editor-Plugin.git",
+                    "reference": "a9f69416f4c5b66aad94be3cf5bf18ab89ec1faa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/UCF-Email-Editor-Plugin/zipball/c05408de8df37df782e840ff1d7b21d09fae634f",
-                    "reference": "c05408de8df37df782e840ff1d7b21d09fae634f",
+                    "url": "https://api.github.com/repos/UCF/UCF-Email-Editor-Plugin/zipball/a9f69416f4c5b66aad94be3cf5bf18ab89ec1faa",
+                    "reference": "a9f69416f4c5b66aad94be3cf5bf18ab89ec1faa",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-03-22T13:32:26+00:00",
+                "time": "2023-06-08T15:45:40+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "WordPress Plugin to add an email editor for creating email html content.",
                 "support": {
-                    "source": "https://github.com/UCF/UCF-Email-Editor-Plugin/tree/v1.3.1",
+                    "source": "https://github.com/UCF/UCF-Email-Editor-Plugin/tree/v1.3.2",
                     "issues": "https://github.com/UCF/UCF-Email-Editor-Plugin/issues"
                 }
             }
