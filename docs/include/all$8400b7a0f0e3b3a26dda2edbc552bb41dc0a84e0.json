@@ -2906,6 +2906,32 @@
                     "issues": "https://github.com/UCF/Site-Selector-Theme/issues"
                 }
             },
+            "v1.0.17": {
+                "name": "ucf/site-selector-theme",
+                "version": "v1.0.17",
+                "version_normalized": "1.0.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Site-Selector-Theme.git",
+                    "reference": "e450458e03936db68b183ab19fb2925c42ecd215"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Site-Selector-Theme/zipball/e450458e03936db68b183ab19fb2925c42ecd215",
+                    "reference": "e450458e03936db68b183ab19fb2925c42ecd215",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-06-28T17:17:12+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme built off of UCF's Generic theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Site-Selector-Theme/tree/v1.0.17",
+                    "issues": "https://github.com/UCF/Site-Selector-Theme/issues"
+                }
+            },
             "dev-master": {
                 "name": "ucf/site-selector-theme",
                 "version": "dev-master",
@@ -2913,23 +2939,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Site-Selector-Theme.git",
-                    "reference": "0d90b5bec74da9439821aabe25e9f7314f81c6b1"
+                    "reference": "e450458e03936db68b183ab19fb2925c42ecd215"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Site-Selector-Theme/zipball/0d90b5bec74da9439821aabe25e9f7314f81c6b1",
-                    "reference": "0d90b5bec74da9439821aabe25e9f7314f81c6b1",
+                    "url": "https://api.github.com/repos/UCF/Site-Selector-Theme/zipball/e450458e03936db68b183ab19fb2925c42ecd215",
+                    "reference": "e450458e03936db68b183ab19fb2925c42ecd215",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-03-21T20:03:39+00:00",
+                "time": "2023-06-28T17:17:12+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "WordPress theme built off of UCF's Generic theme.",
                 "support": {
-                    "source": "https://github.com/UCF/Site-Selector-Theme/tree/v1.0.16",
+                    "source": "https://github.com/UCF/Site-Selector-Theme/tree/v1.0.17",
                     "issues": "https://github.com/UCF/Site-Selector-Theme/issues"
                 }
             }
