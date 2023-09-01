@@ -3,28 +3,54 @@
         "ucf/coronavirus-utilities": [
             {
                 "name": "ucf/coronavirus-utilities",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Coronavirus-Utilities.git",
-                    "reference": "f856463bd08fd8f5dc9ce6b74c61eb87a5b51923"
+                    "reference": "28723d52a13b01d67e736da9de6a3809ab90af34"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Coronavirus-Utilities/zipball/f856463bd08fd8f5dc9ce6b74c61eb87a5b51923",
-                    "reference": "f856463bd08fd8f5dc9ce6b74c61eb87a5b51923",
+                    "url": "https://api.github.com/repos/UCF/Coronavirus-Utilities/zipball/28723d52a13b01d67e736da9de6a3809ab90af34",
+                    "reference": "28723d52a13b01d67e736da9de6a3809ab90af34",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-03-21T20:31:36+00:00",
+                "time": "2023-09-01T14:34:11+00:00",
+                "type": "wordpress-plugin",
+                "description": "Utility and feature plugin for the UCF Coronavirus website.",
+                "support": {
+                    "source": "https://github.com/UCF/Coronavirus-Utilities/tree/develop",
+                    "issues": "https://github.com/UCF/Coronavirus-Utilities/issues"
+                }
+            },
+            {
+                "name": "ucf/coronavirus-utilities",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Coronavirus-Utilities.git",
+                    "reference": "c8eb04a3e4a0c1505de1be3633eae1fbb9810a94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Coronavirus-Utilities/zipball/c8eb04a3e4a0c1505de1be3633eae1fbb9810a94",
+                    "reference": "c8eb04a3e4a0c1505de1be3633eae1fbb9810a94",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-09-01T14:34:01+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Utility and feature plugin for the UCF Coronavirus website.",
                 "support": {
-                    "source": "https://github.com/UCF/Coronavirus-Utilities/tree/v1.1.2",
+                    "source": "https://github.com/UCF/Coronavirus-Utilities/tree/v1.1.3",
                     "issues": "https://github.com/UCF/Coronavirus-Utilities/issues"
                 }
             }
