@@ -336,6 +336,11 @@
             "type": "vcs",
             "url": "https://github.com/UCF/Colleges-Theme/",
             "name": "ucf/colleges-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/ucf-expertise-tax-plugin",
+            "name": "ucf/ucf-expertise-tax-plugin"
         }
     ],
     "require-all": true,

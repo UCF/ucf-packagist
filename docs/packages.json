@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6079c0d7e5f3e9f14456b7d334b90094f39e7b0b.json": {
-            "sha1": "6079c0d7e5f3e9f14456b7d334b90094f39e7b0b"
+        "include/all$bce94f2f54a3fad945d5734cdd4c7b7c34732e30.json": {
+            "sha1": "bce94f2f54a3fad945d5734cdd4c7b7c34732e30"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -45,6 +45,7 @@
         "ucf/ucf-document-plugin",
         "ucf/ucf-email-editor-plugin",
         "ucf/ucf-events-plugin",
+        "ucf/ucf-expertise-tax-plugin",
         "ucf/ucf-faq-cpt",
         "ucf/ucf-footer-plugin",
         "ucf/ucf-gmucf-theme",
