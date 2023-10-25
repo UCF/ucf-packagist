@@ -1,5 +1,32 @@
 {
     "packages": {
-        "ucf/ucf-expertise-tax-plugin": []
+        "ucf/ucf-expertise-tax-plugin": [
+            {
+                "name": "ucf/ucf-expertise-tax-plugin",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-expertise-tax-plugin.git",
+                    "reference": "05b47f48bc22dc2907bac9eedc32fe9df298fa68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-expertise-tax-plugin/zipball/05b47f48bc22dc2907bac9eedc32fe9df298fa68",
+                    "reference": "05b47f48bc22dc2907bac9eedc32fe9df298fa68",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-10-25T16:06:39+00:00",
+                "type": "wordpress-plugin",
+                "description": "A WordPress plugin that defines the Expertise taxonomy, used for grouping posts by area of research or subject.",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-expertise-tax-plugin/tree/v1.0.0",
+                    "issues": "https://github.com/UCF/ucf-expertise-tax-plugin/issues"
+                }
+            }
+        ]
     }
 }
