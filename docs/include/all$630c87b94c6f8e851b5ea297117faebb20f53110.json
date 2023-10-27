@@ -1837,6 +1837,32 @@
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             },
+            "v3.17.1": {
+                "name": "ucf/main-site-theme",
+                "version": "v3.17.1",
+                "version_normalized": "3.17.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Theme.git",
+                    "reference": "65144f777d8f645bca8bd02234a66cba0ac6d605"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/65144f777d8f645bca8bd02234a66cba0ac6d605",
+                    "reference": "65144f777d8f645bca8bd02234a66cba0ac6d605",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-10-27T17:57:39+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.17.1",
+                    "issues": "https://github.com/UCF/Main-Site-Theme/issues"
+                }
+            },
             "dev-dependabot/npm_and_yarn/ansi-regex-5.0.1": {
                 "name": "ucf/main-site-theme",
                 "version": "dev-dependabot/npm_and_yarn/ansi-regex-5.0.1",
@@ -1922,18 +1948,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "8a2cc39d2a25308de573f3f06288d68074d53c83"
+                    "reference": "93a61d19e1e4392cbf88d1bf9d644d41125b074b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/8a2cc39d2a25308de573f3f06288d68074d53c83",
-                    "reference": "8a2cc39d2a25308de573f3f06288d68074d53c83",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/93a61d19e1e4392cbf88d1bf9d644d41125b074b",
+                    "reference": "93a61d19e1e4392cbf88d1bf9d644d41125b074b",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-06-20T18:53:18+00:00",
+                "time": "2023-10-26T19:26:23+00:00",
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
@@ -1948,49 +1974,49 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "cbaf169ef25885e970139b7879556d293b191876"
+                    "reference": "65144f777d8f645bca8bd02234a66cba0ac6d605"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/cbaf169ef25885e970139b7879556d293b191876",
-                    "reference": "cbaf169ef25885e970139b7879556d293b191876",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/65144f777d8f645bca8bd02234a66cba0ac6d605",
+                    "reference": "65144f777d8f645bca8bd02234a66cba0ac6d605",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-10-25T15:56:41+00:00",
+                "time": "2023-10-27T17:57:39+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.17.0",
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.17.1",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             },
-            "dev-rc-v3.17.0": {
+            "dev-rc-v3.17.1": {
                 "name": "ucf/main-site-theme",
-                "version": "dev-rc-v3.17.0",
-                "version_normalized": "dev-rc-v3.17.0",
+                "version": "dev-rc-v3.17.1",
+                "version_normalized": "dev-rc-v3.17.1",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "971840ae4dfc238b13f3da81acefa6dca5bd2e1d"
+                    "reference": "d7e87e1cdc18dc232002b28d218e910154fc20ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/971840ae4dfc238b13f3da81acefa6dca5bd2e1d",
-                    "reference": "971840ae4dfc238b13f3da81acefa6dca5bd2e1d",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/d7e87e1cdc18dc232002b28d218e910154fc20ca",
+                    "reference": "d7e87e1cdc18dc232002b28d218e910154fc20ca",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-10-25T15:55:51+00:00",
+                "time": "2023-10-27T15:40:38+00:00",
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/rc-v3.17.0",
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/rc-v3.17.1",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             }
