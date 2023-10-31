@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/UCF-Footer-Plugin/tree/v2.0.1",
                     "issues": "https://github.com/UCF/UCF-Footer-Plugin/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-footer-plugin",
+                "version": "v2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Footer-Plugin.git",
+                    "reference": "bbac7848377dab29e221b7dbe5e96369ffdd4082"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Footer-Plugin/zipball/bbac7848377dab29e221b7dbe5e96369ffdd4082",
+                    "reference": "bbac7848377dab29e221b7dbe5e96369ffdd4082",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-10-31T14:20:01+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides styles and functionality for displaying a consistent branded footer bar for UCF sites.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Footer-Plugin/tree/v2.0.2",
+                    "issues": "https://github.com/UCF/UCF-Footer-Plugin/issues"
+                }
             }
         ]
     }
