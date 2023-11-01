@@ -78,6 +78,32 @@
                     "source": "https://github.com/UCF/UCF-Social-Plugin/tree/v4.0.3",
                     "issues": "https://github.com/UCF/UCF-Social-Plugin/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-social-plugin",
+                "version": "v4.0.4",
+                "version_normalized": "4.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Social-Plugin.git",
+                    "reference": "b431d6663e170b409395bd04e07699311143901c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Social-Plugin/zipball/b431d6663e170b409395bd04e07699311143901c",
+                    "reference": "b431d6663e170b409395bd04e07699311143901c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-11-01T16:45:11+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a shortcode, functions, and default styles for displaying UCF social assets.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Social-Plugin/tree/v4.0.4",
+                    "issues": "https://github.com/UCF/UCF-Social-Plugin/issues"
+                }
             }
         ]
     }
