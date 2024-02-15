@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6e3a0417b7cd524e65bf5583e5a23de3a1a24b1f.json": {
-            "sha1": "6e3a0417b7cd524e65bf5583e5a23de3a1a24b1f"
+        "include/all$71668c0a28785260b53f6b974b80c7a8171fc72f.json": {
+            "sha1": "71668c0a28785260b53f6b974b80c7a8171fc72f"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -69,6 +69,7 @@
         "ucf/ucf-spotlights-plugin",
         "ucf/ucf-tuition-fees-plugin",
         "ucf/ucf-update-roles",
+        "ucf/ucf-vertical-slide-plugin",
         "ucf/ucf-video-vtt",
         "ucf/ucf-weather-shortcode",
         "ucf/ucf-wordpress-theme",

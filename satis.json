@@ -341,6 +341,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/ucf-expertise-tax-plugin",
             "name": "ucf/ucf-expertise-tax-plugin"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/ucf-vertical-slide-plugin",
+            "name": "ucf/ucf-vertical-slide-plugin"
         }
     ],
     "require-all": true,
