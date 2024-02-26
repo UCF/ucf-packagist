@@ -773,6 +773,136 @@
             }
         },
         "ucf/colleges-theme": {
+            "v1.3.0": {
+                "name": "ucf/colleges-theme",
+                "version": "v1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Colleges-Theme.git",
+                    "reference": "0c8e690012948e8f1c3410796bf30315ffea168b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/0c8e690012948e8f1c3410796bf30315ffea168b",
+                    "reference": "0c8e690012948e8f1c3410796bf30315ffea168b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2023-05-30T20:16:50+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for UCF's college websites, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Colleges-Theme/tree/v1.3.0",
+                    "issues": "https://github.com/UCF/Colleges-Theme/issues"
+                }
+            },
+            "v1.4.0": {
+                "name": "ucf/colleges-theme",
+                "version": "v1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Colleges-Theme.git",
+                    "reference": "2b39ed9a35d3325d9da9541aee055fec97e82fb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/2b39ed9a35d3325d9da9541aee055fec97e82fb8",
+                    "reference": "2b39ed9a35d3325d9da9541aee055fec97e82fb8",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-02-22T18:15:49+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for UCF's college websites, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Colleges-Theme/tree/v1.4.0",
+                    "issues": "https://github.com/UCF/Colleges-Theme/issues"
+                }
+            },
+            "v1.4.1": {
+                "name": "ucf/colleges-theme",
+                "version": "v1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Colleges-Theme.git",
+                    "reference": "769a5520a35712fead314a16e27184f358e0aacd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/769a5520a35712fead314a16e27184f358e0aacd",
+                    "reference": "769a5520a35712fead314a16e27184f358e0aacd",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-02-26T20:30:55+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for UCF's college websites, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Colleges-Theme/tree/v1.4.1",
+                    "issues": "https://github.com/UCF/Colleges-Theme/issues"
+                }
+            },
+            "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed": {
+                "name": "ucf/colleges-theme",
+                "version": "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed",
+                "version_normalized": "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Colleges-Theme.git",
+                    "reference": "94b5b2fc5487f37dead74761f475b479f8e413f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/94b5b2fc5487f37dead74761f475b479f8e413f3",
+                    "reference": "94b5b2fc5487f37dead74761f475b479f8e413f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-02-26T20:29:38+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for UCF's college websites, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Colleges-Theme/tree/dependabot/npm_and_yarn/axios-and-browser-sync--removed",
+                    "issues": "https://github.com/UCF/Colleges-Theme/issues"
+                }
+            },
+            "dev-dependabot/npm_and_yarn/babel/traverse-and-babel-eslint-7.23.9": {
+                "name": "ucf/colleges-theme",
+                "version": "dev-dependabot/npm_and_yarn/babel/traverse-and-babel-eslint-7.23.9",
+                "version_normalized": "dev-dependabot/npm_and_yarn/babel/traverse-and-babel-eslint-7.23.9",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Colleges-Theme.git",
+                    "reference": "1e0b48d2684753deb498dabbfc9d85737a3d5dcf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/1e0b48d2684753deb498dabbfc9d85737a3d5dcf",
+                    "reference": "1e0b48d2684753deb498dabbfc9d85737a3d5dcf",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-02-26T20:30:10+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for UCF's college websites, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Colleges-Theme/tree/dependabot/npm_and_yarn/babel/traverse-and-babel-eslint-7.23.9",
+                    "issues": "https://github.com/UCF/Colleges-Theme/issues"
+                }
+            },
             "dev-develop": {
                 "name": "ucf/colleges-theme",
                 "version": "dev-develop",
@@ -806,23 +936,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Colleges-Theme.git",
-                    "reference": "0c8e690012948e8f1c3410796bf30315ffea168b"
+                    "reference": "769a5520a35712fead314a16e27184f358e0aacd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/0c8e690012948e8f1c3410796bf30315ffea168b",
-                    "reference": "0c8e690012948e8f1c3410796bf30315ffea168b",
+                    "url": "https://api.github.com/repos/UCF/Colleges-Theme/zipball/769a5520a35712fead314a16e27184f358e0aacd",
+                    "reference": "769a5520a35712fead314a16e27184f358e0aacd",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-05-30T20:16:50+00:00",
+                "time": "2024-02-26T20:30:55+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for UCF's college websites, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Colleges-Theme/tree/master",
+                    "source": "https://github.com/UCF/Colleges-Theme/tree/v1.4.1",
                     "issues": "https://github.com/UCF/Colleges-Theme/issues"
                 }
             }
