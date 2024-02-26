@@ -3,6 +3,32 @@
         "ucf/ucf-wordpress-theme": [
             {
                 "name": "ucf/ucf-wordpress-theme",
+                "version": "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed",
+                "version_normalized": "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-WordPress-Theme.git",
+                    "reference": "f0fe6269ab7959d507fe2358ef25a13b3d15d33a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-WordPress-Theme/zipball/f0fe6269ab7959d507fe2358ef25a13b3d15d33a",
+                    "reference": "f0fe6269ab7959d507fe2358ef25a13b3d15d33a",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-02-26T20:30:27+00:00",
+                "type": "wordpress-theme",
+                "description": "A generic, responsive WordPress theme for UCF websites, built off of the Athena Framework. Suitable as a standalone theme or as a parent theme.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-WordPress-Theme/tree/dependabot/npm_and_yarn/axios-and-browser-sync--removed",
+                    "issues": "https://github.com/UCF/UCF-WordPress-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-wordpress-theme",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
@@ -34,49 +60,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/UCF-WordPress-Theme.git",
-                    "reference": "b16dcd68dc098e71d1191dbde9ed416aabd3184e"
+                    "reference": "63a722dde539d1bc778287e8e8a7dcc445c97141"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/UCF-WordPress-Theme/zipball/b16dcd68dc098e71d1191dbde9ed416aabd3184e",
-                    "reference": "b16dcd68dc098e71d1191dbde9ed416aabd3184e",
+                    "url": "https://api.github.com/repos/UCF/UCF-WordPress-Theme/zipball/63a722dde539d1bc778287e8e8a7dcc445c97141",
+                    "reference": "63a722dde539d1bc778287e8e8a7dcc445c97141",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-02-22T18:15:31+00:00",
+                "time": "2024-02-26T20:30:34+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "A generic, responsive WordPress theme for UCF websites, built off of the Athena Framework. Suitable as a standalone theme or as a parent theme.",
                 "support": {
-                    "source": "https://github.com/UCF/UCF-WordPress-Theme/tree/v0.9.0",
-                    "issues": "https://github.com/UCF/UCF-WordPress-Theme/issues"
-                }
-            },
-            {
-                "name": "ucf/ucf-wordpress-theme",
-                "version": "dev-rc-v0.9.0",
-                "version_normalized": "dev-rc-v0.9.0",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/UCF/UCF-WordPress-Theme.git",
-                    "reference": "c55d7a6ae76a0874d76097ceb6c941b6c18a3677"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/UCF-WordPress-Theme/zipball/c55d7a6ae76a0874d76097ceb6c941b6c18a3677",
-                    "reference": "c55d7a6ae76a0874d76097ceb6c941b6c18a3677",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer/installers": "~1.0"
-                },
-                "time": "2024-02-22T17:21:27+00:00",
-                "type": "wordpress-theme",
-                "description": "A generic, responsive WordPress theme for UCF websites, built off of the Athena Framework. Suitable as a standalone theme or as a parent theme.",
-                "support": {
-                    "source": "https://github.com/UCF/UCF-WordPress-Theme/tree/rc-v0.9.0",
+                    "source": "https://github.com/UCF/UCF-WordPress-Theme/tree/v0.9.1",
                     "issues": "https://github.com/UCF/UCF-WordPress-Theme/issues"
                 }
             }
