@@ -3,6 +3,32 @@
         "ucf/research-child-theme": [
             {
                 "name": "ucf/research-child-theme",
+                "version": "dev-category-bug-fix",
+                "version_normalized": "dev-category-bug-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Research-Child-Theme.git",
+                    "reference": "21d99d6b5f23d1ac5b5864c8b8c1d35ea91e63a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Research-Child-Theme/zipball/21d99d6b5f23d1ac5b5864c8b8c1d35ea91e63a5",
+                    "reference": "21d99d6b5f23d1ac5b5864c8b8c1d35ea91e63a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-03-11T21:04:01+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme for the https://www.ucf.edu/research/ site. Provides specific page template for research clusters and research. Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Research-Child-Theme/tree/category-bug-fix",
+                    "issues": "https://github.com/UCF/Research-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/research-child-theme",
                 "version": "dev-d-posts-shortcode-css",
                 "version_normalized": "dev-d-posts-shortcode-css",
                 "source": {
@@ -34,23 +60,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Research-Child-Theme.git",
-                    "reference": "4779fbb6f52b56eb8c5527bba0352180f99bf3dc"
+                    "reference": "6cd31abf4ca2ce2bb036a6d56de6269d34da17e0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Research-Child-Theme/zipball/4779fbb6f52b56eb8c5527bba0352180f99bf3dc",
-                    "reference": "4779fbb6f52b56eb8c5527bba0352180f99bf3dc",
+                    "url": "https://api.github.com/repos/UCF/Research-Child-Theme/zipball/6cd31abf4ca2ce2bb036a6d56de6269d34da17e0",
+                    "reference": "6cd31abf4ca2ce2bb036a6d56de6269d34da17e0",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-03-11T18:57:35+00:00",
+                "time": "2024-03-12T13:09:53+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "Child theme for the https://www.ucf.edu/research/ site. Provides specific page template for research clusters and research. Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Research-Child-Theme/tree/v1.2.0",
+                    "source": "https://github.com/UCF/Research-Child-Theme/tree/v1.2.1",
                     "issues": "https://github.com/UCF/Research-Child-Theme/issues"
                 }
             },
@@ -77,6 +103,32 @@
                 "description": "Child theme for the https://www.ucf.edu/research/ site. Provides specific page template for research clusters and research. Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
                 "support": {
                     "source": "https://github.com/UCF/Research-Child-Theme/tree/v1.2.0",
+                    "issues": "https://github.com/UCF/Research-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/research-child-theme",
+                "version": "dev-rc-v1.2.1",
+                "version_normalized": "dev-rc-v1.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Research-Child-Theme.git",
+                    "reference": "80160178df33c6c2b5ef770ad23c8e145ccb3f45"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Research-Child-Theme/zipball/80160178df33c6c2b5ef770ad23c8e145ccb3f45",
+                    "reference": "80160178df33c6c2b5ef770ad23c8e145ccb3f45",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-03-11T21:12:46+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme for the https://www.ucf.edu/research/ site. Provides specific page template for research clusters and research. Built as a child theme of the UCF WordPress Theme, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Research-Child-Theme/tree/rc-v1.2.1",
                     "issues": "https://github.com/UCF/Research-Child-Theme/issues"
                 }
             },
