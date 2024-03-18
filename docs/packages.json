@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$26e86027745914f515190cf295c5da3debdbb679.json": {
-            "sha1": "26e86027745914f515190cf295c5da3debdbb679"
+        "include/all$b96589e29c7466dd3f3dea670431c20651f19c67.json": {
+            "sha1": "b96589e29c7466dd3f3dea670431c20651f19c67"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
