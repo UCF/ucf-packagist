@@ -2925,29 +2925,29 @@
                     "issues": "https://github.com/UCF/Online-Child-Theme/issues"
                 }
             },
-            "dev-aria-label-role": {
+            "v1.6.2": {
                 "name": "ucf/online-child-theme",
-                "version": "dev-aria-label-role",
-                "version_normalized": "dev-aria-label-role",
+                "version": "v1.6.2",
+                "version_normalized": "1.6.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Online-Child-Theme.git",
-                    "reference": "b615ac29e1e7e30524b2ebc7d7fd210243b76127"
+                    "reference": "b2d0c31e436cc0152b3fc6f766ebd14040c95f27"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Online-Child-Theme/zipball/b615ac29e1e7e30524b2ebc7d7fd210243b76127",
-                    "reference": "b615ac29e1e7e30524b2ebc7d7fd210243b76127",
+                    "url": "https://api.github.com/repos/UCF/Online-Child-Theme/zipball/b2d0c31e436cc0152b3fc6f766ebd14040c95f27",
+                    "reference": "b2d0c31e436cc0152b3fc6f766ebd14040c95f27",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-03-25T16:06:38+00:00",
+                "time": "2024-03-26T15:48:11+00:00",
                 "type": "wordpress-theme",
                 "description": "Child theme of the UCF WordPress Theme for UCF Online v3.  Built with the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Online-Child-Theme/tree/aria-label-role",
+                    "source": "https://github.com/UCF/Online-Child-Theme/tree/v1.6.2",
                     "issues": "https://github.com/UCF/Online-Child-Theme/issues"
                 }
             },
@@ -3029,6 +3029,32 @@
                     "issues": "https://github.com/UCF/Online-Child-Theme/issues"
                 }
             },
+            "dev-hf-typo-att": {
+                "name": "ucf/online-child-theme",
+                "version": "dev-hf-typo-att",
+                "version_normalized": "dev-hf-typo-att",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Child-Theme.git",
+                    "reference": "7dac23ac9d07318dec8a467a0fe922316c38ee68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Child-Theme/zipball/7dac23ac9d07318dec8a467a0fe922316c38ee68",
+                    "reference": "7dac23ac9d07318dec8a467a0fe922316c38ee68",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-03-26T15:38:02+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme of the UCF WordPress Theme for UCF Online v3.  Built with the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Child-Theme/tree/hf-typo-att",
+                    "issues": "https://github.com/UCF/Online-Child-Theme/issues"
+                }
+            },
             "dev-master": {
                 "name": "ucf/online-child-theme",
                 "version": "dev-master",
@@ -3036,49 +3062,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Online-Child-Theme.git",
-                    "reference": "d5d675526ff7892668d0071420dc1b1d9de2fa51"
+                    "reference": "b2d0c31e436cc0152b3fc6f766ebd14040c95f27"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Online-Child-Theme/zipball/d5d675526ff7892668d0071420dc1b1d9de2fa51",
-                    "reference": "d5d675526ff7892668d0071420dc1b1d9de2fa51",
+                    "url": "https://api.github.com/repos/UCF/Online-Child-Theme/zipball/b2d0c31e436cc0152b3fc6f766ebd14040c95f27",
+                    "reference": "b2d0c31e436cc0152b3fc6f766ebd14040c95f27",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-03-26T14:17:03+00:00",
+                "time": "2024-03-26T15:48:11+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "Child theme of the UCF WordPress Theme for UCF Online v3.  Built with the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Online-Child-Theme/tree/v1.6.1",
-                    "issues": "https://github.com/UCF/Online-Child-Theme/issues"
-                }
-            },
-            "dev-rc-v1.6.1": {
-                "name": "ucf/online-child-theme",
-                "version": "dev-rc-v1.6.1",
-                "version_normalized": "dev-rc-v1.6.1",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/UCF/Online-Child-Theme.git",
-                    "reference": "d5d675526ff7892668d0071420dc1b1d9de2fa51"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Online-Child-Theme/zipball/d5d675526ff7892668d0071420dc1b1d9de2fa51",
-                    "reference": "d5d675526ff7892668d0071420dc1b1d9de2fa51",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer/installers": "~1.0"
-                },
-                "time": "2024-03-26T14:17:03+00:00",
-                "type": "wordpress-theme",
-                "description": "Child theme of the UCF WordPress Theme for UCF Online v3.  Built with the Athena Framework.",
-                "support": {
-                    "source": "https://github.com/UCF/Online-Child-Theme/tree/v1.6.1",
+                    "source": "https://github.com/UCF/Online-Child-Theme/tree/v1.6.2",
                     "issues": "https://github.com/UCF/Online-Child-Theme/issues"
                 }
             }
