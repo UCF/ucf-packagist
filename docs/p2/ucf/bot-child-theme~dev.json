@@ -86,23 +86,49 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/BOT-Child-Theme.git",
-                    "reference": "d60432ff71c3484d1ab7fd84bb133a5cfdd54174"
+                    "reference": "9aad0e1e552be09817aff16017f624959c3fa894"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/d60432ff71c3484d1ab7fd84bb133a5cfdd54174",
-                    "reference": "d60432ff71c3484d1ab7fd84bb133a5cfdd54174",
+                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/9aad0e1e552be09817aff16017f624959c3fa894",
+                    "reference": "9aad0e1e552be09817aff16017f624959c3fa894",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-03-21T20:20:21+00:00",
+                "time": "2024-05-06T18:39:26+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "Built as a child theme of the UCF WordPress Theme for the Board of Trustees website, using the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/v1.4.1",
+                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/v1.5.0",
+                    "issues": "https://github.com/UCF/BOT-Child-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/bot-child-theme",
+                "version": "dev-rc-v1.5.0",
+                "version_normalized": "dev-rc-v1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/BOT-Child-Theme.git",
+                    "reference": "638d6df1eae0b8235d3e34f203591f16a7331389"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/BOT-Child-Theme/zipball/638d6df1eae0b8235d3e34f203591f16a7331389",
+                    "reference": "638d6df1eae0b8235d3e34f203591f16a7331389",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-05-06T17:27:54+00:00",
+                "type": "wordpress-theme",
+                "description": "Built as a child theme of the UCF WordPress Theme for the Board of Trustees website, using the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/BOT-Child-Theme/tree/rc-v1.5.0",
                     "issues": "https://github.com/UCF/BOT-Child-Theme/issues"
                 }
             }
