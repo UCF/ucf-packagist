@@ -112,23 +112,75 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "52667884c5719f7fb27224fa48dabe6d765ed125"
+                    "reference": "2d43d96deedc737fa8740abc145c4dcc4ccbb895"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/52667884c5719f7fb27224fa48dabe6d765ed125",
-                    "reference": "52667884c5719f7fb27224fa48dabe6d765ed125",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/2d43d96deedc737fa8740abc145c4dcc4ccbb895",
+                    "reference": "2d43d96deedc737fa8740abc145c4dcc4ccbb895",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-05-21T20:50:59+00:00",
+                "time": "2024-05-23T19:07:09+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.23.2",
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.23.3",
+                    "issues": "https://github.com/UCF/Main-Site-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-theme",
+                "version": "dev-rc-v3.23.3",
+                "version_normalized": "dev-rc-v3.23.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Theme.git",
+                    "reference": "351b34082da4989cc2c3d63a059b0cbce9a2de3e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/351b34082da4989cc2c3d63a059b0cbce9a2de3e",
+                    "reference": "351b34082da4989cc2c3d63a059b0cbce9a2de3e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-05-23T18:38:34+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/rc-v3.23.3",
+                    "issues": "https://github.com/UCF/Main-Site-Theme/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-theme",
+                "version": "dev-underline-style",
+                "version_normalized": "dev-underline-style",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Theme.git",
+                    "reference": "01972c027b2e58a32875799ec79eaa419a518fee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/01972c027b2e58a32875799ec79eaa419a518fee",
+                    "reference": "01972c027b2e58a32875799ec79eaa419a518fee",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-05-23T15:43:10+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/underline-style",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             }
