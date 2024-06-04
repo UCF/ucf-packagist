@@ -50,7 +50,7 @@
                 "type": "wordpress-plugin",
                 "description": "Provides a weather widget with three included styles for displaying the current weather conditions.",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-weather-widgets/tree/main",
+                    "source": "https://github.com/UCF/ucf-weather-widgets/tree/v0.1.0",
                     "issues": "https://github.com/UCF/ucf-weather-widgets/issues"
                 }
             }
