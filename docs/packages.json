@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$722a2c2d58e6de7fb9d0885f5e798968b97bd596.json": {
-            "sha1": "722a2c2d58e6de7fb9d0885f5e798968b97bd596"
+        "include/all$45ee82f29a1d74a583d29ea1515551afa2841c08.json": {
+            "sha1": "45ee82f29a1d74a583d29ea1515551afa2841c08"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -72,6 +72,7 @@
         "ucf/ucf-vertical-slide-plugin",
         "ucf/ucf-video-vtt",
         "ucf/ucf-weather-shortcode",
+        "ucf/ucf-weather-widgets",
         "ucf/ucf-wordpress-theme",
         "ucf/wp-allowed-hosts",
         "ucf/wp-apple-touch-icons",

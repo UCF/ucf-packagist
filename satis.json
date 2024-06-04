@@ -346,6 +346,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/ucf-vertical-slide-plugin",
             "name": "ucf/ucf-vertical-slide-plugin"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/ucf-weather-widgets.git",
+            "name": "ucf/ucf-weather-widgets"
         }
     ],
     "require-all": true,
