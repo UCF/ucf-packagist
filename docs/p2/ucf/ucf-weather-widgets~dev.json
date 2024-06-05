@@ -34,23 +34,49 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/ucf-weather-widgets.git",
-                    "reference": "3a2d4f1263a0a70fee42847c1864bb80b6763153"
+                    "reference": "4b1f383ddd8eddc2a7ce2904d6f8f19675101b2c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/ucf-weather-widgets/zipball/3a2d4f1263a0a70fee42847c1864bb80b6763153",
-                    "reference": "3a2d4f1263a0a70fee42847c1864bb80b6763153",
+                    "url": "https://api.github.com/repos/UCF/ucf-weather-widgets/zipball/4b1f383ddd8eddc2a7ce2904d6f8f19675101b2c",
+                    "reference": "4b1f383ddd8eddc2a7ce2904d6f8f19675101b2c",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-06-04T20:07:44+00:00",
+                "time": "2024-06-05T18:22:45+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Provides a weather widget with three included styles for displaying the current weather conditions.",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-weather-widgets/tree/v0.1.0",
+                    "source": "https://github.com/UCF/ucf-weather-widgets/tree/v0.2.0",
+                    "issues": "https://github.com/UCF/ucf-weather-widgets/issues"
+                }
+            },
+            {
+                "name": "ucf/ucf-weather-widgets",
+                "version": "dev-rc-v0.2.0",
+                "version_normalized": "dev-rc-v0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-weather-widgets.git",
+                    "reference": "c2d297e90623037b54d327096e6ac11bcf51720a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-weather-widgets/zipball/c2d297e90623037b54d327096e6ac11bcf51720a",
+                    "reference": "c2d297e90623037b54d327096e6ac11bcf51720a",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-06-05T15:57:22+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a weather widget with three included styles for displaying the current weather conditions.",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-weather-widgets/tree/rc-v0.2.0",
                     "issues": "https://github.com/UCF/ucf-weather-widgets/issues"
                 }
             }
