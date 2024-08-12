@@ -117,6 +117,32 @@
                     "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v3.1.1",
                     "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
                 }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "v3.2.0",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "1c506bbf623f93a35d255b761792f4e96c27e9e5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/1c506bbf623f93a35d255b761792f4e96c27e9e5",
+                    "reference": "1c506bbf623f93a35d255b761792f4e96c27e9e5",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-08-12T16:25:16+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides utilities (jobs) to run for the main website.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v3.2.0",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
             }
         ]
     }

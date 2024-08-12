@@ -3,6 +3,32 @@
         "ucf/main-site-utilities-plugin": [
             {
                 "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-default-url",
+                "version_normalized": "dev-default-url",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "81ebf015e0d5aee47cebdb9742fede6df5e14851"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/81ebf015e0d5aee47cebdb9742fede6df5e14851",
+                    "reference": "81ebf015e0d5aee47cebdb9742fede6df5e14851",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-08-12T14:28:54+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides utilities (jobs) to run for the main website.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/default-url",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
@@ -37,6 +63,32 @@
                 "homepage": "https://github.com/UCF/Main-Site-Utilities/",
                 "support": {
                     "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/develop",
+                    "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
+                }
+            },
+            {
+                "name": "ucf/main-site-utilities-plugin",
+                "version": "dev-format-job-object",
+                "version_normalized": "dev-format-job-object",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
+                    "reference": "d95b1154f75a4454d467190bcf07e70fa5f56064"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/d95b1154f75a4454d467190bcf07e70fa5f56064",
+                    "reference": "d95b1154f75a4454d467190bcf07e70fa5f56064",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-08-12T16:00:10+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides utilities (jobs) to run for the main website.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/format-job-object",
                     "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
                 }
             },
@@ -86,23 +138,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Utilities-Plugin.git",
-                    "reference": "e99b426fcd803047cae42a3991020742ac765e4d"
+                    "reference": "1c506bbf623f93a35d255b761792f4e96c27e9e5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/e99b426fcd803047cae42a3991020742ac765e4d",
-                    "reference": "e99b426fcd803047cae42a3991020742ac765e4d",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Utilities-Plugin/zipball/1c506bbf623f93a35d255b761792f4e96c27e9e5",
+                    "reference": "1c506bbf623f93a35d255b761792f4e96c27e9e5",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2023-12-12T19:48:33+00:00",
+                "time": "2024-08-12T16:25:16+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Provides utilities (jobs) to run for the main website.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v3.1.1",
+                    "source": "https://github.com/UCF/Main-Site-Utilities-Plugin/tree/v3.2.0",
                     "issues": "https://github.com/UCF/Main-Site-Utilities-Plugin/issues"
                 }
             },
