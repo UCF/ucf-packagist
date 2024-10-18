@@ -2747,6 +2747,32 @@
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             },
+            "v3.24.2": {
+                "name": "ucf/main-site-theme",
+                "version": "v3.24.2",
+                "version_normalized": "3.24.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Theme.git",
+                    "reference": "a5bca92bfc3ba43eff16317f3c741679d2beae39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/a5bca92bfc3ba43eff16317f3c741679d2beae39",
+                    "reference": "a5bca92bfc3ba43eff16317f3c741679d2beae39",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-10-18T13:50:08+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.24.2",
+                    "issues": "https://github.com/UCF/Main-Site-Theme/issues"
+                }
+            },
             "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed": {
                 "name": "ucf/main-site-theme",
                 "version": "dev-dependabot/npm_and_yarn/axios-and-browser-sync--removed",
@@ -2825,29 +2851,29 @@
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             },
-            "dev-hf-acf-header-img-size-desc": {
+            "dev-duotone-FaPro": {
                 "name": "ucf/main-site-theme",
-                "version": "dev-hf-acf-header-img-size-desc",
-                "version_normalized": "dev-hf-acf-header-img-size-desc",
+                "version": "dev-duotone-FaPro",
+                "version_normalized": "dev-duotone-FaPro",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "c8fb35aaaabdda339bd79ad55c4b1e5096714aa4"
+                    "reference": "c3178ce20c59688e31ad0f7b2d8279a2713be0f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/c8fb35aaaabdda339bd79ad55c4b1e5096714aa4",
-                    "reference": "c8fb35aaaabdda339bd79ad55c4b1e5096714aa4",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/c3178ce20c59688e31ad0f7b2d8279a2713be0f9",
+                    "reference": "c3178ce20c59688e31ad0f7b2d8279a2713be0f9",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-08-05T15:14:41+00:00",
+                "time": "2024-10-15T17:03:01+00:00",
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/hf-acf-header-img-size-desc",
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/duotone-FaPro",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             },
@@ -2858,49 +2884,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "c977308512429eb623155752e5f8cef0a13de1f5"
+                    "reference": "a5bca92bfc3ba43eff16317f3c741679d2beae39"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/c977308512429eb623155752e5f8cef0a13de1f5",
-                    "reference": "c977308512429eb623155752e5f8cef0a13de1f5",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/a5bca92bfc3ba43eff16317f3c741679d2beae39",
+                    "reference": "a5bca92bfc3ba43eff16317f3c741679d2beae39",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-08-05T15:50:14+00:00",
+                "time": "2024-10-18T13:50:08+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.24.1",
-                    "issues": "https://github.com/UCF/Main-Site-Theme/issues"
-                }
-            },
-            "dev-rc-v3.24.1": {
-                "name": "ucf/main-site-theme",
-                "version": "dev-rc-v3.24.1",
-                "version_normalized": "dev-rc-v3.24.1",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/UCF/Main-Site-Theme.git",
-                    "reference": "c977308512429eb623155752e5f8cef0a13de1f5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/c977308512429eb623155752e5f8cef0a13de1f5",
-                    "reference": "c977308512429eb623155752e5f8cef0a13de1f5",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer/installers": "~1.0"
-                },
-                "time": "2024-08-05T15:50:14+00:00",
-                "type": "wordpress-theme",
-                "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
-                "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.24.1",
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.24.2",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             }
