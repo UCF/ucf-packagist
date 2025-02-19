@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ucf/alert": [
+            {
+                "name": "ucf/alert",
+                "version": "dev-arialabel-alert",
+                "version_normalized": "dev-arialabel-alert",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/alert.git",
+                    "reference": "47207b5fa7bf8b92c8678148802cd37b8f848436"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/alert/zipball/47207b5fa7bf8b92c8678148802cd37b8f848436",
+                    "reference": "47207b5fa7bf8b92c8678148802cd37b8f848436",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-02-19T19:39:30+00:00",
+                "type": "wordpress-theme",
+                "description": "Theme that is built to fetch alert data from Roam Secure (or some other external source), create editable post data in WordPress, and generate a new feed for use by ucf.edu.",
+                "support": {
+                    "source": "https://github.com/UCF/alert/tree/arialabel-alert",
+                    "issues": "https://github.com/UCF/alert/issues"
+                }
+            },
+            {
+                "name": "ucf/alert",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/alert.git",
+                    "reference": "aa76996c7c4fda3cbf38648726fe0837035d6bbc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/alert/zipball/aa76996c7c4fda3cbf38648726fe0837035d6bbc",
+                    "reference": "aa76996c7c4fda3cbf38648726fe0837035d6bbc",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-02-19T19:48:56+00:00",
+                "type": "wordpress-theme",
+                "description": "Theme that is built to fetch alert data from Roam Secure (or some other external source), create editable post data in WordPress, and generate a new feed for use by ucf.edu.",
+                "support": {
+                    "source": "https://github.com/UCF/alert/tree/develop",
+                    "issues": "https://github.com/UCF/alert/issues"
+                }
+            },
+            {
+                "name": "ucf/alert",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/alert.git",
+                    "reference": "0e823288432cb6fee7ae5ca0277266f0149f8941"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/alert/zipball/0e823288432cb6fee7ae5ca0277266f0149f8941",
+                    "reference": "0e823288432cb6fee7ae5ca0277266f0149f8941",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-02-19T20:35:31+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "Theme that is built to fetch alert data from Roam Secure (or some other external source), create editable post data in WordPress, and generate a new feed for use by ucf.edu.",
+                "support": {
+                    "source": "https://github.com/UCF/alert/tree/v2.1.5",
+                    "issues": "https://github.com/UCF/alert/issues"
+                }
+            },
+            {
+                "name": "ucf/alert",
+                "version": "dev-rc-v2.1.5",
+                "version_normalized": "dev-rc-v2.1.5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/alert.git",
+                    "reference": "febbd3f014f9e84829b38c4cb2d9830231a8a1b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/alert/zipball/febbd3f014f9e84829b38c4cb2d9830231a8a1b4",
+                    "reference": "febbd3f014f9e84829b38c4cb2d9830231a8a1b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-02-19T20:34:11+00:00",
+                "type": "wordpress-theme",
+                "description": "Theme that is built to fetch alert data from Roam Secure (or some other external source), create editable post data in WordPress, and generate a new feed for use by ucf.edu.",
+                "support": {
+                    "source": "https://github.com/UCF/alert/tree/rc-v2.1.5",
+                    "issues": "https://github.com/UCF/alert/issues"
+                }
+            }
+        ]
+    }
+}

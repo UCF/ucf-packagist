@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0e36874cfa819d07ca6c68d444dd3a4e0d9938fb.json": {
-            "sha1": "0e36874cfa819d07ca6c68d444dd3a4e0d9938fb"
+        "include/all$9b1b4bedcdbade7f8b936805cbe3073c58e67a85.json": {
+            "sha1": "9b1b4bedcdbade7f8b936805cbe3073c58e67a85"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
     "available-packages": [
         "ucf/admissions-child-theme",
+        "ucf/alert",
         "ucf/athena-gravityforms-plugin",
         "ucf/athena-shortcodes-plugin",
         "ucf/bot-child-theme",

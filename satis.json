@@ -356,6 +356,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/wp-add-css-capability.git",
             "name": "ucf/wp-add-css-capability"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/alert",
+            "name": "ucf/alert"
         }
     ],
     "require-all": true,
