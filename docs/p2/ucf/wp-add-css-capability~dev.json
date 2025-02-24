@@ -34,23 +34,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/wp-add-css-capability.git",
-                    "reference": "c6ffb796af41261b3763ef382503fe84400a27a7"
+                    "reference": "9a78b8ee1f5083ad1acf2065c367ce24f4a5d485"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/wp-add-css-capability/zipball/c6ffb796af41261b3763ef382503fe84400a27a7",
-                    "reference": "c6ffb796af41261b3763ef382503fe84400a27a7",
+                    "url": "https://api.github.com/repos/UCF/wp-add-css-capability/zipball/9a78b8ee1f5083ad1acf2065c367ce24f4a5d485",
+                    "reference": "9a78b8ee1f5083ad1acf2065c367ce24f4a5d485",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-07-25T14:43:59+00:00",
+                "time": "2025-02-24T20:58:55+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Allows site administrators to access the Additional CSS customizer field.",
                 "support": {
-                    "source": "https://github.com/UCF/wp-add-css-capability/tree/v1.0.0",
+                    "source": "https://github.com/UCF/wp-add-css-capability/tree/v1.0.1",
                     "issues": "https://github.com/UCF/wp-add-css-capability/issues"
                 }
             }
