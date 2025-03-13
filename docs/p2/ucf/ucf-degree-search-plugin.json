@@ -182,6 +182,32 @@
                     "source": "https://github.com/UCF/UCF-Degree-Search-Plugin/tree/v0.9.0",
                     "issues": "https://github.com/UCF/UCF-Degree-Search-Plugin/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-degree-search-plugin",
+                "version": "v0.9.1",
+                "version_normalized": "0.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Degree-Search-Plugin.git",
+                    "reference": "12624b6caadbe5f868c4f94f5991ecec3557af64"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Degree-Search-Plugin/zipball/12624b6caadbe5f868c4f94f5991ecec3557af64",
+                    "reference": "12624b6caadbe5f868c4f94f5991ecec3557af64",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-03-13T19:43:16+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides utilities for listing and searching against UCF Degrees.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Degree-Search-Plugin/tree/v0.9.1",
+                    "issues": "https://github.com/UCF/UCF-Degree-Search-Plugin/issues"
+                }
             }
         ]
     }
