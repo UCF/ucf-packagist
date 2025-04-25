@@ -3,28 +3,54 @@
         "ucf/github-action-testing": [
             {
                 "name": "ucf/github-action-testing",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/github-action-testing.git",
-                    "reference": "8b7dad119e9fbc1c7c7d7dff93ee91f274b1c345"
+                    "reference": "342303594790f1e657588b986bd197c7d4c5001d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/8b7dad119e9fbc1c7c7d7dff93ee91f274b1c345",
-                    "reference": "8b7dad119e9fbc1c7c7d7dff93ee91f274b1c345",
+                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/342303594790f1e657588b986bd197c7d4c5001d",
+                    "reference": "342303594790f1e657588b986bd197c7d4c5001d",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2024-05-02T16:04:32+00:00",
+                "time": "2024-08-19T19:18:21+00:00",
+                "type": "wordpress-plugin",
+                "description": "This plugin has no functionality and is only used for github action testing.",
+                "support": {
+                    "source": "https://github.com/UCF/github-action-testing/tree/develop",
+                    "issues": "https://github.com/UCF/github-action-testing/issues"
+                }
+            },
+            {
+                "name": "ucf/github-action-testing",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/github-action-testing.git",
+                    "reference": "d47d425774ceea560f0159bd27f5907c19e0e057"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/github-action-testing/zipball/d47d425774ceea560f0159bd27f5907c19e0e057",
+                    "reference": "d47d425774ceea560f0159bd27f5907c19e0e057",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-08-19T19:47:51+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "This plugin has no functionality and is only used for github action testing.",
                 "support": {
-                    "source": "https://github.com/UCF/github-action-testing/tree/v1.0.2",
+                    "source": "https://github.com/UCF/github-action-testing/tree/v1.0.3",
                     "issues": "https://github.com/UCF/github-action-testing/issues"
                 }
             }
