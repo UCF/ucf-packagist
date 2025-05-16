@@ -361,6 +361,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/alert",
             "name": "ucf/alert"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/ucf-lazyload-video-plugin.git",
+            "name": "ucf/ucf-lazyload-video-plugin"
         }
     ],
     "require-all": true,

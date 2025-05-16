@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b7efcde9d8a51ddf972698c2f594dea995ee3a88.json": {
-            "sha1": "b7efcde9d8a51ddf972698c2f594dea995ee3a88"
+        "include/all$a68138a3ad2f0e10eaad8c5d74e9570202acbca7.json": {
+            "sha1": "a68138a3ad2f0e10eaad8c5d74e9570202acbca7"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -51,6 +51,7 @@
         "ucf/ucf-footer-plugin",
         "ucf/ucf-gmucf-theme",
         "ucf/ucf-landing-pages-cpt",
+        "ucf/ucf-lazyload-video-plugin",
         "ucf/ucf-location-cpt-plugin",
         "ucf/ucf-meeting-cpt-plugin",
         "ucf/ucf-news-plugin",
