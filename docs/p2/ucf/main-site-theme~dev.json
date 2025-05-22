@@ -102,7 +102,7 @@
                 "type": "wordpress-theme",
                 "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
                 "support": {
-                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v.3.25.0-alpha.1",
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.25.0",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
             },
