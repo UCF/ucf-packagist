@@ -1560,6 +1560,32 @@
                     "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.29.1",
                     "issues": "https://github.com/UCF/Main-Site-Theme/issues"
                 }
+            },
+            {
+                "name": "ucf/main-site-theme",
+                "version": "v3.29.2",
+                "version_normalized": "3.29.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Main-Site-Theme.git",
+                    "reference": "3d7fb39f4a3ab73eaff3ff649749d29dc211cc10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Main-Site-Theme/zipball/3d7fb39f4a3ab73eaff3ff649749d29dc211cc10",
+                    "reference": "3d7fb39f4a3ab73eaff3ff649749d29dc211cc10",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-08-08T15:28:26+00:00",
+                "type": "wordpress-theme",
+                "description": "A responsive WordPress theme for ucf.edu, built off of the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Main-Site-Theme/tree/v3.29.2",
+                    "issues": "https://github.com/UCF/Main-Site-Theme/issues"
+                }
             }
         ]
     }
