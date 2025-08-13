@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/Admissions-Child-Theme/tree/v1.0.6",
                     "issues": "https://github.com/UCF/Admissions-Child-Theme/issues"
                 }
+            },
+            {
+                "name": "ucf/admissions-child-theme",
+                "version": "v1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Admissions-Child-Theme.git",
+                    "reference": "e269702a2cdb6f18419b6775d6b4f876a64fdb28"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Admissions-Child-Theme/zipball/e269702a2cdb6f18419b6775d6b4f876a64fdb28",
+                    "reference": "e269702a2cdb6f18419b6775d6b4f876a64fdb28",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-08-13T14:58:05+00:00",
+                "type": "wordpress-theme",
+                "description": "Child theme of the UCF WordPress Theme for the Undergraduate Admissions website.  Built with the Athena Framework.",
+                "support": {
+                    "source": "https://github.com/UCF/Admissions-Child-Theme/tree/v1.1.0",
+                    "issues": "https://github.com/UCF/Admissions-Child-Theme/issues"
+                }
             }
         ]
     }
