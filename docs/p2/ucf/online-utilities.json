@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/Online-Utilities/tree/v2.2.1",
                     "issues": "https://github.com/UCF/Online-Utilities/issues"
                 }
+            },
+            {
+                "name": "ucf/online-utilities",
+                "version": "v2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Online-Utilities.git",
+                    "reference": "eaf3ed9c489ae48c020ccccd53c570021ec72765"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Online-Utilities/zipball/eaf3ed9c489ae48c020ccccd53c570021ec72765",
+                    "reference": "eaf3ed9c489ae48c020ccccd53c570021ec72765",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-10-02T19:19:10+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides functionality and other utilities for the UCF Online website.",
+                "support": {
+                    "source": "https://github.com/UCF/Online-Utilities/tree/v2.2.2",
+                    "issues": "https://github.com/UCF/Online-Utilities/issues"
+                }
             }
         ]
     }
