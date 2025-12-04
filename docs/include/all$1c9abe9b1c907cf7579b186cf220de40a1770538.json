@@ -1110,6 +1110,61 @@
                 }
             }
         },
+        "ucf/brand-child-theme": {
+            "dev-develop": {
+                "name": "ucf/brand-child-theme",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Brand-Child-Theme.git",
+                    "reference": "22907615e2a8336126fc1821d506d5c8cf7cea8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Brand-Child-Theme/zipball/22907615e2a8336126fc1821d506d5c8cf7cea8c",
+                    "reference": "22907615e2a8336126fc1821d506d5c8cf7cea8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-12-04T18:40:52+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/develop",
+                    "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
+                }
+            },
+            "dev-main": {
+                "name": "ucf/brand-child-theme",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Brand-Child-Theme.git",
+                    "reference": "22907615e2a8336126fc1821d506d5c8cf7cea8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Brand-Child-Theme/zipball/22907615e2a8336126fc1821d506d5c8cf7cea8c",
+                    "reference": "22907615e2a8336126fc1821d506d5c8cf7cea8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-12-04T18:40:52+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/develop",
+                    "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
+                }
+            }
+        },
         "ucf/brand-theme": {
             "v1.2.0": {
                 "name": "ucf/brand-theme",

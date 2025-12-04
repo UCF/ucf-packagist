@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$66b7d55e1b9f6dfa8543cd6a21bac6280e05f344.json": {
-            "sha1": "66b7d55e1b9f6dfa8543cd6a21bac6280e05f344"
+        "include/all$1c9abe9b1c907cf7579b186cf220de40a1770538.json": {
+            "sha1": "1c9abe9b1c907cf7579b186cf220de40a1770538"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -13,6 +13,7 @@
         "ucf/athena-shortcodes-plugin",
         "ucf/bot-child-theme",
         "ucf/bot-utilities",
+        "ucf/brand-child-theme",
         "ucf/brand-theme",
         "ucf/colleges-theme",
         "ucf/coronavirus-child-theme",
