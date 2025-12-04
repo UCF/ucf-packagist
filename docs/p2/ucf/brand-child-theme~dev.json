@@ -23,7 +23,7 @@
                 "type": "wordpress-theme",
                 "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
                 "support": {
-                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/develop",
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.1.0",
                     "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
                 }
             },
@@ -50,7 +50,7 @@
                 "type": "wordpress-theme",
                 "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
                 "support": {
-                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/develop",
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.1.0",
                     "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
                 }
             }
