@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.1.0",
                     "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
                 }
+            },
+            {
+                "name": "ucf/brand-child-theme",
+                "version": "v0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Brand-Child-Theme.git",
+                    "reference": "7136ad6b044f0d169d14dd1d75e4ddc476d0c768"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Brand-Child-Theme/zipball/7136ad6b044f0d169d14dd1d75e4ddc476d0c768",
+                    "reference": "7136ad6b044f0d169d14dd1d75e4ddc476d0c768",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2025-12-08T21:04:41+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.2.0",
+                    "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
+                }
             }
         ]
     }
