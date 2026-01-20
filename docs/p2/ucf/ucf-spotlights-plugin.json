@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/UCF-Spotlights-Plugin/tree/v2.1.1",
                     "issues": "https://github.com/UCF/UCF-Spotlights-Plugin/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-spotlights-plugin",
+                "version": "v2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Spotlights-Plugin.git",
+                    "reference": "563c765b74767f7f0a404420071e957e4da4a7ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Spotlights-Plugin/zipball/563c765b74767f7f0a404420071e957e4da4a7ee",
+                    "reference": "563c765b74767f7f0a404420071e957e4da4a7ee",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-01-20T19:02:17+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a custom post type, shortcode and functions for displaying Spotlights.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Spotlights-Plugin/tree/v2.1.2",
+                    "issues": "https://github.com/UCF/UCF-Spotlights-Plugin/issues"
+                }
             }
         ]
     }
