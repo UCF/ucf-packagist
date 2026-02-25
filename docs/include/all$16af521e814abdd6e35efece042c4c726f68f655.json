@@ -1397,6 +1397,32 @@
                     "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
                 }
             },
+            "v0.4.2": {
+                "name": "ucf/brand-child-theme",
+                "version": "v0.4.2",
+                "version_normalized": "0.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/Brand-Child-Theme.git",
+                    "reference": "d3c49afa1920687d34cf981c2120ff76bf56d6a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/Brand-Child-Theme/zipball/d3c49afa1920687d34cf981c2120ff76bf56d6a4",
+                    "reference": "d3c49afa1920687d34cf981c2120ff76bf56d6a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-02-25T17:20:55+00:00",
+                "type": "wordpress-theme",
+                "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
+                "support": {
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.4.2",
+                    "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
+                }
+            },
             "dev-develop": {
                 "name": "ucf/brand-child-theme",
                 "version": "dev-develop",
@@ -1430,23 +1456,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/Brand-Child-Theme.git",
-                    "reference": "bfc9b2e69684b1179c66fae602e72cdc6025cb61"
+                    "reference": "d3c49afa1920687d34cf981c2120ff76bf56d6a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/Brand-Child-Theme/zipball/bfc9b2e69684b1179c66fae602e72cdc6025cb61",
-                    "reference": "bfc9b2e69684b1179c66fae602e72cdc6025cb61",
+                    "url": "https://api.github.com/repos/UCF/Brand-Child-Theme/zipball/d3c49afa1920687d34cf981c2120ff76bf56d6a4",
+                    "reference": "d3c49afa1920687d34cf981c2120ff76bf56d6a4",
                     "shasum": ""
                 },
                 "require": {
                     "composer/installers": "~1.0"
                 },
-                "time": "2026-02-20T17:06:45+00:00",
+                "time": "2026-02-25T17:20:55+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "description": "WordPress theme for brand website with brand guidelines. This is a child theme of the UCF-WordPress-Theme.",
                 "support": {
-                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.4.1",
+                    "source": "https://github.com/UCF/Brand-Child-Theme/tree/v0.4.2",
                     "issues": "https://github.com/UCF/Brand-Child-Theme/issues"
                 }
             }
