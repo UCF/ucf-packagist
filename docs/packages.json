@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e08afd2cc2c9030dc96ae6fc9c993d6389d18a99.json": {
-            "sha1": "e08afd2cc2c9030dc96ae6fc9c993d6389d18a99"
+        "include/all$5efec4bbe1f5401f39b74f0147b6546b34bd6707.json": {
+            "sha1": "5efec4bbe1f5401f39b74f0147b6546b34bd6707"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -23,6 +23,7 @@
         "ucf/github-action-testing",
         "ucf/gmucf-utilities",
         "ucf/link-rel-patch",
+        "ucf/main-site-components",
         "ucf/main-site-theme",
         "ucf/main-site-utilities-plugin",
         "ucf/myucf-control-panel-plugin",

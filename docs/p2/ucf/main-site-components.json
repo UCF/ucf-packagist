@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ucf/main-site-components": [
+            {
+                "name": "ucf/main-site-components",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/main-site-components.git",
+                    "reference": "8493835fd926435e0f04958a09dc107484aaee0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/main-site-components/zipball/8493835fd926435e0f04958a09dc107484aaee0f",
+                    "reference": "8493835fd926435e0f04958a09dc107484aaee0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-04-14T16:34:08+00:00",
+                "type": "wordpress-plugin",
+                "description": "Provides a number of components used on ucf.edu, such as the interactive flip card, the light trail box and the bracket classes.",
+                "support": {
+                    "source": "https://github.com/UCF/main-site-components/tree/v1.0.0",
+                    "issues": "https://github.com/UCF/main-site-components/issues"
+                }
+            }
+        ]
+    }
+}
