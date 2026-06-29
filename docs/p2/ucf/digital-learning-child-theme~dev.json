@@ -24,7 +24,7 @@
                 "type": "wordpress-theme",
                 "description": "A child theme for the UCF Digital Learning WordPress theme.",
                 "support": {
-                    "source": "https://github.com/UCF/digital-learning-child-theme/tree/main",
+                    "source": "https://github.com/UCF/digital-learning-child-theme/tree/v1.0.0",
                     "issues": "https://github.com/UCF/digital-learning-child-theme/issues"
                 }
             }
