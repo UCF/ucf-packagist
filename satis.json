@@ -376,6 +376,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/main-site-components.git",
             "name": "ucf/main-site-components"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/digital-learning-child-theme.git",
+            "name": "ucf/digital-learning-child-theme"
         }
     ],
     "require-all": true,

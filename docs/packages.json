@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$789bce709d2f8430f6390a42ad843dcd79a6bf8f.json": {
-            "sha1": "789bce709d2f8430f6390a42ad843dcd79a6bf8f"
+        "include/all$8a7c368941a214ac6a617fe9c2b79a194d6156b8.json": {
+            "sha1": "8a7c368941a214ac6a617fe9c2b79a194d6156b8"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -18,6 +18,7 @@
         "ucf/colleges-theme",
         "ucf/coronavirus-child-theme",
         "ucf/coronavirus-utilities",
+        "ucf/digital-learning-child-theme",
         "ucf/finaid-child-theme",
         "ucf/finaid-utilities",
         "ucf/github-action-testing",

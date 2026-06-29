@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ucf/digital-learning-child-theme": [
+            {
+                "name": "ucf/digital-learning-child-theme",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/digital-learning-child-theme.git",
+                    "reference": "d29c3644b1082aad90913badac760ca0deaeaa46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/digital-learning-child-theme/zipball/d29c3644b1082aad90913badac760ca0deaeaa46",
+                    "reference": "d29c3644b1082aad90913badac760ca0deaeaa46",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-06-29T19:04:22+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "description": "A child theme for the UCF Digital Learning WordPress theme.",
+                "support": {
+                    "source": "https://github.com/UCF/digital-learning-child-theme/tree/main",
+                    "issues": "https://github.com/UCF/digital-learning-child-theme/issues"
+                }
+            }
+        ]
+    }
+}
