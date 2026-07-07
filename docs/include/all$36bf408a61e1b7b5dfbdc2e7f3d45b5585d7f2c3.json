@@ -10135,6 +10135,32 @@
             }
         },
         "ucf/ucf-news-block-theme": {
+            "1.0.0-alpha.1": {
+                "name": "ucf/ucf-news-block-theme",
+                "version": "1.0.0-alpha.1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-news-block-theme.git",
+                    "reference": "ef0f03bff9c7f73c0560bdb3212b03beb441cb4e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-news-block-theme/zipball/ef0f03bff9c7f73c0560bdb3212b03beb441cb4e",
+                    "reference": "ef0f03bff9c7f73c0560bdb3212b03beb441cb4e",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-07-07T18:25:57+00:00",
+                "type": "wordpress-theme",
+                "description": "Build pipeline for UCF Today Block Theme styles.",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-news-block-theme/tree/1.0.0-alpha.1",
+                    "issues": "https://github.com/UCF/ucf-news-block-theme/issues"
+                }
+            },
             "dev-main": {
                 "name": "ucf/ucf-news-block-theme",
                 "version": "dev-main",
@@ -10158,7 +10184,7 @@
                 "type": "wordpress-theme",
                 "description": "Build pipeline for UCF Today Block Theme styles.",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-news-block-theme/tree/main",
+                    "source": "https://github.com/UCF/ucf-news-block-theme/tree/1.0.0-alpha.1",
                     "issues": "https://github.com/UCF/ucf-news-block-theme/issues"
                 }
             },

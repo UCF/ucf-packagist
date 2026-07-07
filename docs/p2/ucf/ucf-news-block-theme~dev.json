@@ -24,7 +24,7 @@
                 "type": "wordpress-theme",
                 "description": "Build pipeline for UCF Today Block Theme styles.",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-news-block-theme/tree/main",
+                    "source": "https://github.com/UCF/ucf-news-block-theme/tree/1.0.0-alpha.1",
                     "issues": "https://github.com/UCF/ucf-news-block-theme/issues"
                 }
             },
