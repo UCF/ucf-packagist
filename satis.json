@@ -381,6 +381,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/digital-learning-child-theme.git",
             "name": "ucf/digital-learning-child-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/ucf-news-block-theme.git",
+            "name": "ucf/ucf-news-block-theme"
         }
     ],
     "require-all": true,
