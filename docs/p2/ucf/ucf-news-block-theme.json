@@ -26,6 +26,32 @@
                     "source": "https://github.com/UCF/ucf-news-block-theme/tree/1.0.0-alpha.1",
                     "issues": "https://github.com/UCF/ucf-news-block-theme/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-news-block-theme",
+                "version": "1.0.0-alpha.2",
+                "version_normalized": "1.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-news-block-theme.git",
+                    "reference": "af93431b9c4f51c14af2d5b4ad5c617151b07bf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-news-block-theme/zipball/af93431b9c4f51c14af2d5b4ad5c617151b07bf3",
+                    "reference": "af93431b9c4f51c14af2d5b4ad5c617151b07bf3",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-07-09T15:19:14+00:00",
+                "type": "wordpress-theme",
+                "description": "Build pipeline for UCF Today Block Theme styles.",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-news-block-theme/tree/1.0.0-alpha.2",
+                    "issues": "https://github.com/UCF/ucf-news-block-theme/issues"
+                }
             }
         ]
     }
