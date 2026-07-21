@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$2de39a81bb7b3e7d626a85ceb969b27ce7e37942.json": {
-            "sha1": "2de39a81bb7b3e7d626a85ceb969b27ce7e37942"
+        "include/all$ce928d56c050e913d89318a47b0064eb2de17e75.json": {
+            "sha1": "ce928d56c050e913d89318a47b0064eb2de17e75"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -41,6 +41,7 @@
         "ucf/today-utilities",
         "ucf/ucf-academic-calendar-plugin",
         "ucf/ucf-alert-plugin",
+        "ucf/ucf-brand-block-theme",
         "ucf/ucf-charts-plugin",
         "ucf/ucf-colleges-tax-plugin",
         "ucf/ucf-degree-cpt-plugin",

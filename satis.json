@@ -386,6 +386,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/ucf-news-block-theme.git",
             "name": "ucf/ucf-news-block-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/ucf-brand-block-theme.git",
+            "name": "ucf/ucf-brand-block-theme"
         }
     ],
     "require-all": true,

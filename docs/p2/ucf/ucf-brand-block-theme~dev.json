@@ -1,0 +1,55 @@
+{
+    "packages": {
+        "ucf/ucf-brand-block-theme": [
+            {
+                "name": "ucf/ucf-brand-block-theme",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-brand-block-theme.git",
+                    "reference": "42972ad87c255fe4911439244efd13fc03b3be1b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/42972ad87c255fe4911439244efd13fc03b3be1b",
+                    "reference": "42972ad87c255fe4911439244efd13fc03b3be1b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
+                    "wp-coding-standards/wpcs": "^3.1"
+                },
+                "time": "2026-07-21T14:56:12+00:00",
+                "default-branch": true,
+                "type": "wordpress-theme",
+                "scripts": {
+                    "lint": [
+                        "phpcs"
+                    ],
+                    "lint:fix": [
+                        "phpcbf"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "homepage": "https://www.ucf.edu/"
+                    }
+                ],
+                "description": "Foundation-first block theme for UCF brand documentation.",
+                "homepage": "https://brand.ucf.edu/",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/main",
+                    "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
+                }
+            }
+        ]
+    }
+}
