@@ -46,7 +46,7 @@
                 "description": "Foundation-first block theme for UCF brand documentation.",
                 "homepage": "https://brand.ucf.edu/",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/main",
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.1",
                     "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
                 }
             }
