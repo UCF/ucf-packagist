@@ -96,6 +96,54 @@
                     "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.2",
                     "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
                 }
+            },
+            {
+                "name": "ucf/ucf-brand-block-theme",
+                "version": "v1.0.0-alpha.3",
+                "version_normalized": "1.0.0.0-alpha3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-brand-block-theme.git",
+                    "reference": "79aa9c17dd88b33eed572c69c7cdaa0d9925956b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/79aa9c17dd88b33eed572c69c7cdaa0d9925956b",
+                    "reference": "79aa9c17dd88b33eed572c69c7cdaa0d9925956b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
+                    "wp-coding-standards/wpcs": "^3.1"
+                },
+                "time": "2026-08-05T17:23:25+00:00",
+                "type": "wordpress-theme",
+                "scripts": {
+                    "lint": [
+                        "phpcs"
+                    ],
+                    "lint:fix": [
+                        "phpcbf"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "homepage": "https://www.ucf.edu/"
+                    }
+                ],
+                "description": "Foundation-first block theme for UCF brand documentation.",
+                "homepage": "https://brand.ucf.edu/",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.3",
+                    "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
+                }
             }
         ]
     }

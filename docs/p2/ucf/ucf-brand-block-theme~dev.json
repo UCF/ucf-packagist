@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/ucf-brand-block-theme.git",
-                    "reference": "3904a25e50c26185a8f2fc7bd8180e7ecc9f9d49"
+                    "reference": "79aa9c17dd88b33eed572c69c7cdaa0d9925956b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/3904a25e50c26185a8f2fc7bd8180e7ecc9f9d49",
-                    "reference": "3904a25e50c26185a8f2fc7bd8180e7ecc9f9d49",
+                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/79aa9c17dd88b33eed572c69c7cdaa0d9925956b",
+                    "reference": "79aa9c17dd88b33eed572c69c7cdaa0d9925956b",
                     "shasum": ""
                 },
                 "require": {
@@ -71,7 +71,7 @@
                     "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
                     "wp-coding-standards/wpcs": "^3.1"
                 },
-                "time": "2026-08-04T18:23:22+00:00",
+                "time": "2026-08-05T17:23:25+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "scripts": {
@@ -94,55 +94,7 @@
                 "description": "Foundation-first block theme for UCF brand documentation.",
                 "homepage": "https://brand.ucf.edu/",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.2",
-                    "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
-                }
-            },
-            {
-                "name": "ucf/ucf-brand-block-theme",
-                "version": "dev-revert-7-tab-panels",
-                "version_normalized": "dev-revert-7-tab-panels",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/UCF/ucf-brand-block-theme.git",
-                    "reference": "a989a514b40bcb79473151a3b00adefaa688daa1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/a989a514b40bcb79473151a3b00adefaa688daa1",
-                    "reference": "a989a514b40bcb79473151a3b00adefaa688daa1",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer/installers": "~1.0"
-                },
-                "require-dev": {
-                    "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
-                    "wp-coding-standards/wpcs": "^3.1"
-                },
-                "time": "2026-07-23T20:28:30+00:00",
-                "type": "wordpress-theme",
-                "scripts": {
-                    "lint": [
-                        "phpcs"
-                    ],
-                    "lint:fix": [
-                        "phpcbf"
-                    ]
-                },
-                "license": [
-                    "GPL-2.0-or-later"
-                ],
-                "authors": [
-                    {
-                        "name": "UCF Web Communications",
-                        "homepage": "https://www.ucf.edu/"
-                    }
-                ],
-                "description": "Foundation-first block theme for UCF brand documentation.",
-                "homepage": "https://brand.ucf.edu/",
-                "support": {
-                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/revert-7-tab-panels",
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.3",
                     "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
                 }
             }
