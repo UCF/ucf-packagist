@@ -8389,19 +8389,19 @@
                     "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
                 }
             },
-            "dev-main": {
+            "v1.0.0-alpha.6": {
                 "name": "ucf/ucf-brand-block-theme",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "v1.0.0-alpha.6",
+                "version_normalized": "1.0.0.0-alpha6",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/ucf-brand-block-theme.git",
-                    "reference": "44f0fcdd3dddaf2b4979559bded1dfbcfd3534bc"
+                    "reference": "ed8fcdc8560b7bb4e15eefddb646774a8f917afe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/44f0fcdd3dddaf2b4979559bded1dfbcfd3534bc",
-                    "reference": "44f0fcdd3dddaf2b4979559bded1dfbcfd3534bc",
+                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/ed8fcdc8560b7bb4e15eefddb646774a8f917afe",
+                    "reference": "ed8fcdc8560b7bb4e15eefddb646774a8f917afe",
                     "shasum": ""
                 },
                 "require": {
@@ -8415,7 +8415,74 @@
                     "wp-phpunit/wp-phpunit": "^7.0",
                     "yoast/phpunit-polyfills": "^4.0"
                 },
-                "time": "2026-08-20T15:32:26+00:00",
+                "time": "2026-08-25T13:17:54+00:00",
+                "type": "wordpress-theme",
+                "autoload-dev": {
+                    "psr-4": {
+                        "UCF\\Brand\\Tests\\Integration\\": "tests/integration/",
+                        "UCF\\Brand\\Tests\\": "tests/php/"
+                    }
+                },
+                "scripts": {
+                    "lint": [
+                        "phpcs"
+                    ],
+                    "lint:fix": [
+                        "phpcbf"
+                    ],
+                    "test": [
+                        "phpunit"
+                    ],
+                    "test:unit": [
+                        "phpunit --testsuite unit"
+                    ],
+                    "test:integration": [
+                        "phpunit -c phpunit-integration.xml.dist"
+                    ]
+                },
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "UCF Web Communications",
+                        "homepage": "https://www.ucf.edu/"
+                    }
+                ],
+                "description": "Foundation-first block theme for UCF brand documentation.",
+                "homepage": "https://brand.ucf.edu/",
+                "support": {
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.6",
+                    "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
+                }
+            },
+            "dev-main": {
+                "name": "ucf/ucf-brand-block-theme",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/ucf-brand-block-theme.git",
+                    "reference": "ed8fcdc8560b7bb4e15eefddb646774a8f917afe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/ed8fcdc8560b7bb4e15eefddb646774a8f917afe",
+                    "reference": "ed8fcdc8560b7bb4e15eefddb646774a8f917afe",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "require-dev": {
+                    "brain/monkey": "^2.6",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
+                    "phpunit/phpunit": "^9.6",
+                    "wp-coding-standards/wpcs": "^3.1",
+                    "wp-phpunit/wp-phpunit": "^7.0",
+                    "yoast/phpunit-polyfills": "^4.0"
+                },
+                "time": "2026-08-25T13:17:54+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "autoload-dev": {
@@ -8453,7 +8520,7 @@
                 "description": "Foundation-first block theme for UCF brand documentation.",
                 "homepage": "https://brand.ucf.edu/",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.5",
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-alpha.6",
                     "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
                 }
             }
