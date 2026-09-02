@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/UCF/ucf-brand-block-theme.git",
-                    "reference": "05d4b2e9987f74e113e701031584d2ad8ef3f0c2"
+                    "reference": "cc35da643446e68d14276e330b399e38f40e93e4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/05d4b2e9987f74e113e701031584d2ad8ef3f0c2",
-                    "reference": "05d4b2e9987f74e113e701031584d2ad8ef3f0c2",
+                    "url": "https://api.github.com/repos/UCF/ucf-brand-block-theme/zipball/cc35da643446e68d14276e330b399e38f40e93e4",
+                    "reference": "cc35da643446e68d14276e330b399e38f40e93e4",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "wp-phpunit/wp-phpunit": "^7.0",
                     "yoast/phpunit-polyfills": "^4.0"
                 },
-                "time": "2026-08-31T20:19:30+00:00",
+                "time": "2026-09-02T19:28:12+00:00",
                 "default-branch": true,
                 "type": "wordpress-theme",
                 "autoload-dev": {
@@ -65,7 +65,7 @@
                 "description": "Foundation-first block theme for UCF brand documentation.",
                 "homepage": "https://brand.ucf.edu/",
                 "support": {
-                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-beta.3",
+                    "source": "https://github.com/UCF/ucf-brand-block-theme/tree/v1.0.0-beta.4",
                     "issues": "https://github.com/UCF/ucf-brand-block-theme/issues"
                 }
             }
