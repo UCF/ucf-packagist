@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$56a94be1603546009135d276826a5002508f4e58.json": {
-            "sha1": "56a94be1603546009135d276826a5002508f4e58"
+        "include/all$fd2062510b22628fab656da73ef601885e1e06d0.json": {
+            "sha1": "fd2062510b22628fab656da73ef601885e1e06d0"
         }
     },
     "metadata-url": "/ucf-packagist/p2/%package%.json",
@@ -54,6 +54,7 @@
         "ucf/ucf-faq-cpt",
         "ucf/ucf-footer-plugin",
         "ucf/ucf-gmucf-theme",
+        "ucf/ucf-header-plugin",
         "ucf/ucf-landing-pages-cpt",
         "ucf/ucf-lazyload-video-plugin",
         "ucf/ucf-location-cpt-plugin",

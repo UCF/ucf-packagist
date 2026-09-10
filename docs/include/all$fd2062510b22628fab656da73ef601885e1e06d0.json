@@ -10564,6 +10564,87 @@
                 }
             }
         },
+        "ucf/ucf-header-plugin": {
+            "v1.1.0": {
+                "name": "ucf/ucf-header-plugin",
+                "version": "v1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Header-Plugin.git",
+                    "reference": "f95f38a267631fb1a7698722b4da3338593aee21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Header-Plugin/zipball/f95f38a267631fb1a7698722b4da3338593aee21",
+                    "reference": "f95f38a267631fb1a7698722b4da3338593aee21",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2024-03-05T16:16:34+00:00",
+                "type": "wordpress-plugin",
+                "description": "Plugin to embed UCF University Header on top of Wordpress pages.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Header-Plugin/tree/v1.1.0",
+                    "issues": "https://github.com/UCF/UCF-Header-Plugin/issues"
+                }
+            },
+            "v1.2.0": {
+                "name": "ucf/ucf-header-plugin",
+                "version": "v1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Header-Plugin.git",
+                    "reference": "90c353ff9984ab8b21fb4e48354ebd2e1cdbdedd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Header-Plugin/zipball/90c353ff9984ab8b21fb4e48354ebd2e1cdbdedd",
+                    "reference": "90c353ff9984ab8b21fb4e48354ebd2e1cdbdedd",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-09-01T18:04:34+00:00",
+                "type": "wordpress-plugin",
+                "description": "Plugin to embed UCF University Header on top of Wordpress pages.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Header-Plugin/tree/v1.2.0",
+                    "issues": "https://github.com/UCF/UCF-Header-Plugin/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ucf/ucf-header-plugin",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/UCF/UCF-Header-Plugin.git",
+                    "reference": "90c353ff9984ab8b21fb4e48354ebd2e1cdbdedd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/UCF/UCF-Header-Plugin/zipball/90c353ff9984ab8b21fb4e48354ebd2e1cdbdedd",
+                    "reference": "90c353ff9984ab8b21fb4e48354ebd2e1cdbdedd",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2026-09-01T18:04:34+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Plugin to embed UCF University Header on top of Wordpress pages.",
+                "support": {
+                    "source": "https://github.com/UCF/UCF-Header-Plugin/tree/v1.2.0",
+                    "issues": "https://github.com/UCF/UCF-Header-Plugin/issues"
+                }
+            }
+        },
         "ucf/ucf-landing-pages-cpt": {
             "v1.0.2": {
                 "name": "ucf/ucf-landing-pages-cpt",

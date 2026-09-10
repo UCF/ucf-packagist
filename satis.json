@@ -391,6 +391,11 @@
             "type": "vcs",
             "url": "git@github.com:UCF/ucf-brand-block-theme.git",
             "name": "ucf/ucf-brand-block-theme"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:UCF/UCF-Header-Plugin.git",
+            "name": "ucf/ucf-header-plugin"
         }
     ],
     "require-all": true,
